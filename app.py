@@ -1,6 +1,6 @@
 import os
 
-from augmentation import convert_greyscale, change_brightness,change_contrast,add_blur,apply_perspective_transform
+from augmentation import convert_greyscale, change_brightness,change_contrast,add_blur,generate_warps
 
 raw_images= r"D:\Projects\Calories\Raw_Images"
 greyscale_folder= r"D:\Projects\Calories\Greyscale_images"
@@ -13,4 +13,4 @@ perspective_transform_folder="D:\Projects\Calories\perspective_transform_aug"
 #change_brightness(greyscale_folder,brightness_aug_folder)
 #change_contrast(greyscale_folder, contrast_aug_folder)
 #add_blur(greyscale_folder,gaussian_aug_folder)
-apply_perspective_transform(greyscale_folder, perspective_transform_folder)
+generate_warps(greyscale_folder, perspective_transform_folder)
