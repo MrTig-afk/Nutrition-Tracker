@@ -1,0 +1,22 @@
+{
+  "nutritional_information": {
+    "serving_size": "1Tbsp (17g)",
+    "per_serving": {
+      "calories": 20,
+      "protein": "0g",
+      "saturated_fat": "",
+      "trans_fat": "",
+      "carbohydrate": "4g",
+      "fiber": "",
+      "cholesterol": "0mg",
+      "sodium": "170mg"
+    },
+    "per_100g": {
+      "calories": null,
+      "protein": "",
+      "saturated_fat": "",
+      "trans_fat": "",
+      "carbohydrate": ""
+    }
+  }
+}

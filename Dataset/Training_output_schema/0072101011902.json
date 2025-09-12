@@ -1,0 +1,22 @@
+{
+  "nutritional_information": {
+    "serving_size": "2Tbsp 30g)",
+    "per_serving": {
+      "calories": 5,
+      "protein": "",
+      "saturated_fat": "",
+      "trans_fat": "",
+      "carbohydrate": "1g",
+      "fiber": "",
+      "cholesterol": "0mg",
+      "sodium": "200mg"
+    },
+    "per_100g": {
+      "calories": null,
+      "protein": "",
+      "saturated_fat": "",
+      "trans_fat": "",
+      "carbohydrate": ""
+    }
+  }
+}

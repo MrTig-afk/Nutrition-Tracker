@@ -1,0 +1,22 @@
+{
+  "nutritional_information": {
+    "serving_size": "1/2 cup (125g)",
+    "per_serving": {
+      "calories": 90,
+      "protein": "1g",
+      "saturated_fat": "1g",
+      "trans_fat": "0g",
+      "carbohydrate": "5g",
+      "fiber": "1g",
+      "cholesterol": "0mg",
+      "sodium": "490mg"
+    },
+    "per_100g": {
+      "calories": null,
+      "protein": "",
+      "saturated_fat": "",
+      "trans_fat": "",
+      "carbohydrate": ""
+    }
+  }
+}

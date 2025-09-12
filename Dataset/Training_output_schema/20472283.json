@@ -1,0 +1,22 @@
+{
+  "nutritional_information": {
+    "serving_size": "cracker",
+    "per_serving": {
+      "calories": 24,
+      "protein": "<0.5g",
+      "saturated_fat": "1.6g",
+      "trans_fat": "<0.1g",
+      "carbohydrate": "3.1g",
+      "fiber": "<0.5g",
+      "cholesterol": "",
+      "sodium": "0.10g"
+    },
+    "per_100g": {
+      "calories": 457,
+      "protein": "9.2g",
+      "saturated_fat": "1.6g",
+      "trans_fat": "<0.1g",
+      "carbohydrate": "62g"
+    }
+  }
+}

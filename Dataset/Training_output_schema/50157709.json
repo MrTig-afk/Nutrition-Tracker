@@ -1,0 +1,22 @@
+{
+  "nutritional_information": {
+    "serving_size": "",
+    "per_serving": {
+      "calories": 17,
+      "protein": "0.2g",
+      "saturated_fat": "Trace",
+      "trans_fat": "",
+      "carbohydrate": "3.8g",
+      "fiber": "",
+      "cholesterol": "",
+      "sodium": "0.2g"
+    },
+    "per_100g": {
+      "calories": 112,
+      "protein": "1.4g",
+      "saturated_fat": "0.1g",
+      "trans_fat": "",
+      "carbohydrate": "25.3g"
+    }
+  }
+}

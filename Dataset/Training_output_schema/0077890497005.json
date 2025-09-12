@@ -1,0 +1,22 @@
+{
+  "nutritional_information": {
+    "serving_size": "1/20 package (28g / 1/4 cup dry mix)",
+    "per_serving": {
+      "calories": 110,
+      "protein": "1g",
+      "saturated_fat": "1g",
+      "trans_fat": "",
+      "carbohydrate": "23g",
+      "fiber": "1g",
+      "cholesterol": "",
+      "sodium": "110mg"
+    },
+    "per_100g": {
+      "calories": 170,
+      "protein": "",
+      "saturated_fat": "",
+      "trans_fat": "",
+      "carbohydrate": ""
+    }
+  }
+}

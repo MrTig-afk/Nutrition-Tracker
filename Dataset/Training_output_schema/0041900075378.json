@@ -1,0 +1,22 @@
+{
+  "nutritional_information": {
+    "serving_size": "1Container",
+    "per_serving": {
+      "calories": 450,
+      "protein": "199",
+      "saturated_fat": "3g",
+      "trans_fat": "0g",
+      "carbohydrate": "34g",
+      "fiber": "",
+      "cholesterol": "25mg",
+      "sodium": "380mg"
+    },
+    "per_100g": {
+      "calories": null,
+      "protein": "",
+      "saturated_fat": "",
+      "trans_fat": "",
+      "carbohydrate": ""
+    }
+  }
+}

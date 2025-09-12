@@ -1,0 +1,22 @@
+{
+  "nutritional_information": {
+    "serving_size": "1 slice (45g)",
+    "per_serving": {
+      "calories": 120,
+      "protein": "4g",
+      "saturated_fat": "0.5g",
+      "trans_fat": "Og",
+      "carbohydrate": "23g",
+      "fiber": "1g",
+      "cholesterol": "Omg",
+      "sodium": "260mg"
+    },
+    "per_100g": {
+      "calories": null,
+      "protein": "",
+      "saturated_fat": "",
+      "trans_fat": "",
+      "carbohydrate": ""
+    }
+  }
+}

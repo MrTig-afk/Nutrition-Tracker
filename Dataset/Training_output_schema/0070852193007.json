@@ -1,0 +1,22 @@
+{
+  "nutritional_information": {
+    "serving_size": "1 Cup (240mL)",
+    "per_serving": {
+      "calories": 130,
+      "protein": "10g",
+      "saturated_fat": "3g",
+      "trans_fat": "Og",
+      "carbohydrate": "13g",
+      "fiber": "Og",
+      "cholesterol": "20mg",
+      "sodium": "140mg"
+    },
+    "per_100g": {
+      "calories": null,
+      "protein": "",
+      "saturated_fat": "",
+      "trans_fat": "",
+      "carbohydrate": ""
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "nutritional_information": {
+    "serving_size": "18 pieces (41 g)",
+    "per_serving": {
+      "calories": 190,
+      "protein": "<1g",
+      "saturated_fat": "7g",
+      "trans_fat": "0g",
+      "carbohydrate": "31g",
+      "fiber": "0g",
+      "cholesterol": "0 mg",
+      "sodium": "95 mg"
+    },
+    "per_100g": {
+      "calories": null,
+      "protein": "",
+      "saturated_fat": "",
+      "trans_fat": "",
+      "carbohydrate": ""
+    }
+  }
+}

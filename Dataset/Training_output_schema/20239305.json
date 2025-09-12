@@ -1,0 +1,22 @@
+{
+  "nutritional_information": {
+    "serving_size": "80g",
+    "per_serving": {
+      "calories": 48,
+      "protein": "<0.5g",
+      "saturated_fat": "<0.1g",
+      "trans_fat": "",
+      "carbohydrate": "12g",
+      "fiber": "0.6g",
+      "cholesterol": "",
+      "sodium": "<0.01g"
+    },
+    "per_100g": {
+      "calories": 60,
+      "protein": "",
+      "saturated_fat": "<0.1g",
+      "trans_fat": "",
+      "carbohydrate": "15g"
+    }
+  }
+}

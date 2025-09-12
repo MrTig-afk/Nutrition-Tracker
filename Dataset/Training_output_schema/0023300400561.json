@@ -1,0 +1,22 @@
+{
+  "nutritional_information": {
+    "serving_size": "5 Crackers (14g)",
+    "per_serving": {
+      "calories": 60,
+      "protein": "1g",
+      "saturated_fat": "Og",
+      "trans_fat": "Og",
+      "carbohydrate": "10g",
+      "fiber": "Og",
+      "cholesterol": "Omg",
+      "sodium": "170mg"
+    },
+    "per_100g": {
+      "calories": null,
+      "protein": "",
+      "saturated_fat": "",
+      "trans_fat": "",
+      "carbohydrate": ""
+    }
+  }
+}

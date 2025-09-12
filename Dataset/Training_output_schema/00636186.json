@@ -1,0 +1,22 @@
+{
+  "nutritional_information": {
+    "serving_size": "1/2 pack",
+    "per_serving": {
+      "calories": 388,
+      "protein": "3.5g",
+      "saturated_fat": "0.8g",
+      "trans_fat": "<01g",
+      "carbohydrate": "84.0g",
+      "fiber": "83.0g",
+      "cholesterol": "",
+      "sodium": "9.5g"
+    },
+    "per_100g": {
+      "calories": 155,
+      "protein": "14g",
+      "saturated_fat": "0.8g",
+      "trans_fat": "<01g",
+      "carbohydrate": "33.6g"
+    }
+  }
+}
