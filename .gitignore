@@ -1,5 +1,4 @@
-# Virtual environment
-venv/
+nv/
 .venv/
 my_venv/
 
@@ -11,8 +10,8 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-
 # Environment variables
 .env
 
-nutrition_tables.parquet
+# Large data files
+*.parquet
