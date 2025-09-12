@@ -1,0 +1,22 @@
+{
+  "nutritional_information": {
+    "serving_size": "1 Tbsp (21g)",
+    "per_serving": {
+      "calories": 60,
+      "protein": "0g",
+      "saturated_fat": "",
+      "trans_fat": "",
+      "carbohydrate": "16g",
+      "fiber": "",
+      "cholesterol": "",
+      "sodium": "0mg"
+    },
+    "per_100g": {
+      "calories": null,
+      "protein": "",
+      "saturated_fat": "",
+      "trans_fat": "",
+      "carbohydrate": ""
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "nutritional_information": {
+    "serving_size": "1 tsp. (5g)",
+    "per_serving": {
+      "calories": 5,
+      "protein": "Og",
+      "saturated_fat": "",
+      "trans_fat": "",
+      "carbohydrate": "1g",
+      "fiber": "",
+      "cholesterol": "",
+      "sodium": "Omg"
+    },
+    "per_100g": {
+      "calories": null,
+      "protein": "",
+      "saturated_fat": "",
+      "trans_fat": "",
+      "carbohydrate": ""
+    }
+  }
+}

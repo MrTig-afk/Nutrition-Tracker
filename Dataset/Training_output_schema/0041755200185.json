@@ -1,0 +1,22 @@
+{
+  "nutritional_information": {
+    "serving_size": "8floz (237ml)",
+    "per_serving": {
+      "calories": 110,
+      "protein": "0g",
+      "saturated_fat": "0g",
+      "trans_fat": "0g",
+      "carbohydrate": "28g",
+      "fiber": "",
+      "cholesterol": "0mg",
+      "sodium": "15mg"
+    },
+    "per_100g": {
+      "calories": null,
+      "protein": "",
+      "saturated_fat": "",
+      "trans_fat": "",
+      "carbohydrate": ""
+    }
+  }
+}

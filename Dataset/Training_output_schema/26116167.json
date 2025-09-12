@@ -1,0 +1,22 @@
+{
+  "nutritional_information": {
+    "serving_size": "90g",
+    "per_serving": {
+      "calories": 282,
+      "protein": "8.9g",
+      "saturated_fat": "2.0g",
+      "trans_fat": "2.2g",
+      "carbohydrate": "21.9g",
+      "fiber": "0.9g",
+      "cholesterol": "",
+      "sodium": "286mg"
+    },
+    "per_100g": {
+      "calories": 313,
+      "protein": "9.9g",
+      "saturated_fat": "2.0g",
+      "trans_fat": "2.2g",
+      "carbohydrate": "23.5g"
+    }
+  }
+}

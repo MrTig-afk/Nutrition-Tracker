@@ -1,0 +1,22 @@
+{
+  "nutritional_information": {
+    "serving_size": "1 bun (43g)",
+    "per_serving": {
+      "calories": 120,
+      "protein": "4g",
+      "saturated_fat": "",
+      "trans_fat": "",
+      "carbohydrate": "70",
+      "fiber": "1g",
+      "cholesterol": "",
+      "sodium": "200mg"
+    },
+    "per_100g": {
+      "calories": null,
+      "protein": "",
+      "saturated_fat": "",
+      "trans_fat": "",
+      "carbohydrate": ""
+    }
+  }
+}

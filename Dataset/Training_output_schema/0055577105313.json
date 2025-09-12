@@ -1,0 +1,22 @@
+{
+  "nutritional_information": {
+    "serving_size": "2/3 cup (45 g)",
+    "per_serving": {
+      "calories": 210,
+      "protein": "5g",
+      "saturated_fat": "6g",
+      "trans_fat": "0g",
+      "carbohydrate": "31g",
+      "fiber": "4g",
+      "cholesterol": "0mg",
+      "sodium": "35mg"
+    },
+    "per_100g": {
+      "calories": null,
+      "protein": "",
+      "saturated_fat": "",
+      "trans_fat": "",
+      "carbohydrate": ""
+    }
+  }
+}
