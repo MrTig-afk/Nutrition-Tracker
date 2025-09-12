@@ -1,0 +1,130 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        667,
+        816
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.0234375,
+              0.0268928035982009
+            ],
+            [
+              0.9580078125,
+              0.9719124812593702
+            ]
+          ],
+          "objectness_score": 0.7033623854319254,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "NUTRITIONAL"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "INFORMATION:"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Typical"
+                },
+                {
+                  "value": "Values"
+                },
+                {
+                  "value": "per"
+                },
+                {
+                  "value": "100g."
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Energy"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1042kJ"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Protein"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "290kcal"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Carbohydrate"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.3g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fat"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "63.2g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Trace"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

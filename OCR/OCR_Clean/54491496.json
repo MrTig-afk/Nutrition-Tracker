@@ -1,0 +1,198 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        334,
+        402
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.0283203125,
+              0.015741953592814384
+            ],
+            [
+              0.9658203125,
+              0.9548734562125749
+            ]
+          ],
+          "objectness_score": 0.7315838044440305,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "I"
+                },
+                {
+                  "value": "INFORMATIONTYPICALVALUES"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "CA"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "100ml"
+                },
+                {
+                  "value": "250ml"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "à"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "chergye"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1.6k"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Ak"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.4kcal"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Ikcal"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "UK"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "pohydrate"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Ug"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Ug"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "U%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Which"
+                },
+                {
+                  "value": "sugars:"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Ugl"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Ug"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "(U%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fat.Saturates,"
+                },
+                {
+                  "value": "Protein:"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Salt-"
+                },
+                {
+                  "value": "negligible"
+                },
+                {
+                  "value": "amount"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

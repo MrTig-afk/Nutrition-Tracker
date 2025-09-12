@@ -1,0 +1,286 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        1074,
+        874
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.03678757866132726,
+              0.0302734375
+            ],
+            [
+              0.9596123247997712,
+              0.9755859375
+            ]
+          ],
+          "objectness_score": 0.7435332716457428,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "Nutrition"
+                },
+                {
+                  "value": "Facte"
+                },
+                {
+                  "value": "Sery"
+                },
+                {
+                  "value": "Dize"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": ""
+                },
+                {
+                  "value": "Cup"
+                },
+                {
+                  "value": "(00"
+                },
+                {
+                  "value": "mi.:"
+                },
+                {
+                  "value": "Servings:Abou"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Amount"
+                },
+                {
+                  "value": "Par"
+                },
+                {
+                  "value": "Serving"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Calories"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0,Fat"
+                },
+                {
+                  "value": "Cal,"
+                },
+                {
+                  "value": "0,"
+                },
+                {
+                  "value": "Total"
+                },
+                {
+                  "value": "Iat"
+                },
+                {
+                  "value": "99(0%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "DV)"
+                },
+                {
+                  "value": "Sat.Fat"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "o9"
+                },
+                {
+                  "value": "1"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "(0%DV)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Tans"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "0(0%"
+                },
+                {
+                  "value": "DV)."
+                },
+                {
+                  "value": "Sodium"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "120mg"
+                },
+                {
+                  "value": "(5%"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "DV),"
+                },
+                {
+                  "value": "Total"
+                },
+                {
+                  "value": "Carb.0g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "(0%"
+                },
+                {
+                  "value": "DV),Sugars"
+                },
+                {
+                  "value": "09(0%DV),"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Protein"
+                },
+                {
+                  "value": "Og,"
+                },
+                {
+                  "value": "Vitamin"
+                },
+                {
+                  "value": "A(4%DV)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Vitamin"
+                },
+                {
+                  "value": "C(10%1"
+                },
+                {
+                  "value": "DV),Calcium"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0%"
+                },
+                {
+                  "value": "DV),"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "Iron"
+                },
+                {
+                  "value": "(50%"
+                },
+                {
+                  "value": "DV)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Percent"
+                },
+                {
+                  "value": "Dally"
+                },
+                {
+                  "value": "Values"
+                },
+                {
+                  "value": "(DV)"
+                },
+                {
+                  "value": "are"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "based"
+                },
+                {
+                  "value": "ona2,000"
+                },
+                {
+                  "value": "calorie"
+                },
+                {
+                  "value": "diet,"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

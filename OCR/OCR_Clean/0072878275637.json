@@ -1,0 +1,282 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        1379,
+        799
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.04155585106382981,
+              0.0166015625
+            ],
+            [
+              0.9719278003754693,
+              0.96875
+            ]
+          ],
+          "objectness_score": 0.8283856698110992,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "Nutrition"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Facts"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Serving"
+                },
+                {
+                  "value": "Size"
+                },
+                {
+                  "value": "2Tbsp."
+                },
+                {
+                  "value": "(31g)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Serv"
+                },
+                {
+                  "value": "Per"
+                },
+                {
+                  "value": "Container"
+                },
+                {
+                  "value": "about"
+                },
+                {
+                  "value": "14"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Amount"
+                },
+                {
+                  "value": "Per"
+                },
+                {
+                  "value": "Serving"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Calories"
+                },
+                {
+                  "value": "10"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Calories"
+                },
+                {
+                  "value": "from"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "0"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "%"
+                },
+                {
+                  "value": "Daily"
+                },
+                {
+                  "value": "Value"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Total"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "Og"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Saturated"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "Og"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Trans"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "Og"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Cholesterol"
+                },
+                {
+                  "value": "Omg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sodium"
+                },
+                {
+                  "value": "220mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "9%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Total"
+                },
+                {
+                  "value": "Carb.2g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Dietary"
+                },
+                {
+                  "value": "Fiber"
+                },
+                {
+                  "value": "Og"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sugars"
+                },
+                {
+                  "value": "1g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Protein"
+                },
+                {
+                  "value": "Og"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

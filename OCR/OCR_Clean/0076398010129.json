@@ -1,0 +1,210 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        1301,
+        1220
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.025121670081967196,
+              0.02734375
+            ],
+            [
+              0.924891137295082,
+              0.9091796875
+            ]
+          ],
+          "objectness_score": 0.7140290805271694,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "Nutrition"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Facts"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Stze"
+                },
+                {
+                  "value": "1/4"
+                },
+                {
+                  "value": "cdta"
+                },
+                {
+                  "value": "(1.0g)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "serving"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Per"
+                },
+                {
+                  "value": "Container"
+                },
+                {
+                  "value": "227"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "ings"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "un"
+                },
+                {
+                  "value": "per"
+                },
+                {
+                  "value": "serving"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Calories"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "0"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Calories"
+                },
+                {
+                  "value": "from"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Daily"
+                },
+                {
+                  "value": "Vetua"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Total"
+                },
+                {
+                  "value": "Fatog"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Trans"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "tog"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sodium"
+                },
+                {
+                  "value": "480"
+                },
+                {
+                  "value": "mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "-"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Total"
+                },
+                {
+                  "value": "Carbohydrate"
+                },
+                {
+                  "value": "09"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Protein"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0g"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

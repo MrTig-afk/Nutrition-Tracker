@@ -1,0 +1,289 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        1304,
+        1070
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.012047313084112166,
+              0.017578125
+            ],
+            [
+              0.9629599883177571,
+              0.96875
+            ]
+          ],
+          "objectness_score": 0.8345160793799621,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "Nutrition"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Facts"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Serving"
+                },
+                {
+                  "value": "Size"
+                },
+                {
+                  "value": "1"
+                },
+                {
+                  "value": "cup"
+                },
+                {
+                  "value": "(240mL)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Servings"
+                },
+                {
+                  "value": "Per"
+                },
+                {
+                  "value": "Container"
+                },
+                {
+                  "value": "16"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Amount"
+                },
+                {
+                  "value": "Per"
+                },
+                {
+                  "value": "Serving"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Calories"
+                },
+                {
+                  "value": "140"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Calories"
+                },
+                {
+                  "value": "from"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "à"
+                },
+                {
+                  "value": "25"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "%"
+                },
+                {
+                  "value": "Dally"
+                },
+                {
+                  "value": "Value*"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Total"
+                },
+                {
+                  "value": "Fat2.5g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "4%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Saturated"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "1.5g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "8%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Trans"
+                },
+                {
+                  "value": "Fat0g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Cholesterol"
+                },
+                {
+                  "value": "15mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "4%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sodlum"
+                },
+                {
+                  "value": "180mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "7%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Total"
+                },
+                {
+                  "value": "Carbohydrate"
+                },
+                {
+                  "value": "20g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "7%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Dietary"
+                },
+                {
+                  "value": "Fiber"
+                },
+                {
+                  "value": "Og"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sugars"
+                },
+                {
+                  "value": "18g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Protein"
+                },
+                {
+                  "value": "8g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "16%"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

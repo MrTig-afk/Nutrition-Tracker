@@ -1,0 +1,193 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        1358,
+        1167
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.03635122107969152,
+              0.021484375
+            ],
+            [
+              0.9545576263924593,
+              0.9951171875
+            ]
+          ],
+          "objectness_score": 0.6870166631415486,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "Nutrition"
+                },
+                {
+                  "value": "I"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Facts"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Serving"
+                },
+                {
+                  "value": "Size"
+                },
+                {
+                  "value": "1"
+                },
+                {
+                  "value": "can"
+                },
+                {
+                  "value": "(355mL)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "mount"
+                },
+                {
+                  "value": "Per:"
+                },
+                {
+                  "value": "Serving"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Calorieso"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "%"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "Daily"
+                },
+                {
+                  "value": "Value"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Total"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "Og"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sodium"
+                },
+                {
+                  "value": "Omg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Total"
+                },
+                {
+                  "value": "Carbohydrate"
+                },
+                {
+                  "value": "Og"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sugars"
+                },
+                {
+                  "value": "Og"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Proteln"
+                },
+                {
+                  "value": "Og"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Per"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

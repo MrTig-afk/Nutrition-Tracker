@@ -1,0 +1,127 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        128,
+        640
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.0107421875,
+              0.0
+            ],
+            [
+              0.986328125,
+              1.0
+            ]
+          ],
+          "objectness_score": 0.6824847824043698,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "Nutrition"
+                },
+                {
+                  "value": "Information"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "."
+                },
+                {
+                  "value": "youring."
+                },
+                {
+                  "value": "so"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "per"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "114kcali48"
+                },
+                {
+                  "value": "81kJ;"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "3.0g;"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "100g:"
+                },
+                {
+                  "value": "Energy"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "16.4g;"
+                },
+                {
+                  "value": "Protein"
+                },
+                {
+                  "value": "5.3g."
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "ldo"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Carbohydrate"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Allergen"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

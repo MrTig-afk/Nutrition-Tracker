@@ -1,0 +1,256 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        948,
+        693
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.008387445887445888,
+              0.0126953125
+            ],
+            [
+              0.9622226731601732,
+              0.974609375
+            ]
+          ],
+          "objectness_score": 0.8383102774620056,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "Nutrition"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Facts"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Serving"
+                },
+                {
+                  "value": "Size"
+                },
+                {
+                  "value": "2"
+                },
+                {
+                  "value": "OZ"
+                },
+                {
+                  "value": "(56g)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Servings"
+                },
+                {
+                  "value": "Per"
+                },
+                {
+                  "value": "Container"
+                },
+                {
+                  "value": "8"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Amount"
+                },
+                {
+                  "value": "Per"
+                },
+                {
+                  "value": "Serving"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Calories"
+                },
+                {
+                  "value": "80"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Calories"
+                },
+                {
+                  "value": "from"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "45"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "%"
+                },
+                {
+                  "value": "Daily"
+                },
+                {
+                  "value": "Value*"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Total"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "5g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "8%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Saturated"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "1.5g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "8%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Cholestero"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "50mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sodium"
+                },
+                {
+                  "value": "520mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "22%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Total"
+                },
+                {
+                  "value": "Carbohydrates0g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Dietary"
+                },
+                {
+                  "value": "FiberOg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sugars"
+                },
+                {
+                  "value": "0g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Protein"
+                },
+                {
+                  "value": "9g"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

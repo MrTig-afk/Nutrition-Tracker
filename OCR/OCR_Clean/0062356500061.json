@@ -1,0 +1,352 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        1092,
+        791
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.029487002212389368,
+              0.0380859375
+            ],
+            [
+              0.9974764933628318,
+              1.0
+            ]
+          ],
+          "objectness_score": 0.7665346569739855,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "Valeur"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "nutritive"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Nutrition"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Facts"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Pour"
+                },
+                {
+                  "value": "1"
+                },
+                {
+                  "value": "Tasse"
+                },
+                {
+                  "value": "250mL)"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "/Per"
+                },
+                {
+                  "value": "1"
+                },
+                {
+                  "value": "Cup"
+                },
+                {
+                  "value": "(250mL)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Teneur"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "%"
+                },
+                {
+                  "value": "valeur"
+                },
+                {
+                  "value": "quotidienne"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Amount"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "%"
+                },
+                {
+                  "value": "Daily"
+                },
+                {
+                  "value": "Value"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Calories/Calories"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "220"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Lipides"
+                },
+                {
+                  "value": "/"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "4g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "6%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "saturatés"
+                },
+                {
+                  "value": "/"
+                },
+                {
+                  "value": "Saturated"
+                },
+                {
+                  "value": "0.5g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "+"
+                },
+                {
+                  "value": "trans"
+                },
+                {
+                  "value": "/"
+                },
+                {
+                  "value": "Trans"
+                },
+                {
+                  "value": "Og"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "3%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Cholestérol/Cholesterol"
+                },
+                {
+                  "value": "Omg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sodium"
+                },
+                {
+                  "value": "/"
+                },
+                {
+                  "value": "Sodium"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "230mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "10%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Glucides"
+                },
+                {
+                  "value": "/"
+                },
+                {
+                  "value": "Carbohydrate"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "36g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "12%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fibres"
+                },
+                {
+                  "value": "/"
+                },
+                {
+                  "value": "Fibre"
+                },
+                {
+                  "value": "7g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "28%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sucres"
+                },
+                {
+                  "value": "/"
+                },
+                {
+                  "value": "Sugar"
+                },
+                {
+                  "value": "1g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Protéines"
+                },
+                {
+                  "value": "/"
+                },
+                {
+                  "value": "Protein"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "10g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "CA"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

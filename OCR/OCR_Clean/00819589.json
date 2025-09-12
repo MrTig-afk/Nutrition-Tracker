@@ -1,0 +1,201 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        287,
+        752
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.0185546875,
+              0.054769163763066175
+            ],
+            [
+              0.923828125,
+              0.9529072299651569
+            ]
+          ],
+          "objectness_score": 0.7877178205685182,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "NUTRITION"
+                },
+                {
+                  "value": "Typical"
+                },
+                {
+                  "value": "values/Valeurs"
+                },
+                {
+                  "value": "moyennes/Gemiddelde"
+                },
+                {
+                  "value": "waarden"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "per"
+                },
+                {
+                  "value": "100g:"
+                },
+                {
+                  "value": "Energy"
+                },
+                {
+                  "value": "KJ/Energie/Energie"
+                },
+                {
+                  "value": "625KJ/145kcal"
+                },
+                {
+                  "value": "."
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Protein/Protéines/Elwitten"
+                },
+                {
+                  "value": "2.2g"
+                },
+                {
+                  "value": "Carbohydrate/Glucides/"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Koolhydraten"
+                },
+                {
+                  "value": "34.6g,"
+                },
+                {
+                  "value": "of"
+                },
+                {
+                  "value": "which"
+                },
+                {
+                  "value": "sugars/dont"
+                },
+                {
+                  "value": "sucres/waarvan"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "suikers"
+                },
+                {
+                  "value": "33.7g"
+                },
+                {
+                  "value": "FatLipides/Vetten"
+                },
+                {
+                  "value": "<0.1g,ofv"
+                },
+                {
+                  "value": "which"
+                },
+                {
+                  "value": "saturates/"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "dont"
+                },
+                {
+                  "value": "satures/waarvan"
+                },
+                {
+                  "value": "verzadigd"
+                },
+                {
+                  "value": "<0.1g"
+                },
+                {
+                  "value": "Fibre/Fibres"
+                },
+                {
+                  "value": "alimentaires/"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Voedingsvezels"
+                },
+                {
+                  "value": "0.5g"
+                },
+                {
+                  "value": "Sodium/Sodium/Natrium"
+                },
+                {
+                  "value": "0.69g"
+                },
+                {
+                  "value": "I"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Equivalent"
+                },
+                {
+                  "value": "as"
+                },
+                {
+                  "value": "salt/Equivalent"
+                },
+                {
+                  "value": "en"
+                },
+                {
+                  "value": "sel/"
+                },
+                {
+                  "value": "zout"
+                },
+                {
+                  "value": "1.73g."
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

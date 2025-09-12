@@ -1,0 +1,312 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        633,
+        437
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.028950496996567487,
+              0.044921875
+            ],
+            [
+              0.9257834846967963,
+              0.94140625
+            ]
+          ],
+          "objectness_score": 0.7701000874502617,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "Facts"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Nutrition"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Size"
+                },
+                {
+                  "value": "1/2"
+                },
+                {
+                  "value": "cup"
+                },
+                {
+                  "value": "(65"
+                },
+                {
+                  "value": "g)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Serving"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "About"
+                },
+                {
+                  "value": "7"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Per"
+                },
+                {
+                  "value": "Container"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Servings"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Amount"
+                },
+                {
+                  "value": "Per"
+                },
+                {
+                  "value": "Serving"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Calories"
+                },
+                {
+                  "value": "240"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Calories"
+                },
+                {
+                  "value": "from"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "10"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "%"
+                },
+                {
+                  "value": "Daily"
+                },
+                {
+                  "value": "Value*"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Total"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "1g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Saturated"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "0g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Trans"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "0g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Cholesterol"
+                },
+                {
+                  "value": "0"
+                },
+                {
+                  "value": "mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sodium"
+                },
+                {
+                  "value": "0"
+                },
+                {
+                  "value": "mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Total"
+                },
+                {
+                  "value": "Carbohydrate"
+                },
+                {
+                  "value": "51"
+                },
+                {
+                  "value": "9"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "17%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Dietary"
+                },
+                {
+                  "value": "Fiber"
+                },
+                {
+                  "value": "2"
+                },
+                {
+                  "value": "9"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "8%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sugars3g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Protein"
+                },
+                {
+                  "value": "8g"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

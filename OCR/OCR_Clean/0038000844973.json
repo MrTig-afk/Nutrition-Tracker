@@ -1,0 +1,444 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        1796,
+        1296
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.0,
+              0.0
+            ],
+            [
+              0.9777229214891976,
+              0.9736328125
+            ]
+          ],
+          "objectness_score": 0.6402984520968269,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "NOTRMA"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "NUTRICIONAL"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Size"
+                },
+                {
+                  "value": "1ounce"
+                },
+                {
+                  "value": "1"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1"
+                },
+                {
+                  "value": "OZ"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "CRNACION"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "eming"
+                },
+                {
+                  "value": "de"
+                },
+                {
+                  "value": "la"
+                },
+                {
+                  "value": "porcion"
+                },
+                {
+                  "value": "15"
+                },
+                {
+                  "value": "crisps/unidades)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Erano"
+                },
+                {
+                  "value": "camdoman"
+                },
+                {
+                  "value": "Container"
+                },
+                {
+                  "value": "approx."
+                },
+                {
+                  "value": "6"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "289"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "per"
+                },
+                {
+                  "value": "envase"
+                },
+                {
+                  "value": "aprox."
+                },
+                {
+                  "value": "6"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "énings"
+                },
+                {
+                  "value": "por"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "uones"
+                },
+                {
+                  "value": "Serving/Cantidad"
+                },
+                {
+                  "value": "por"
+                },
+                {
+                  "value": "porcion"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "per"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "150"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "imeunt"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fat/Calorias"
+                },
+                {
+                  "value": "de"
+                },
+                {
+                  "value": "grasa"
+                },
+                {
+                  "value": "80"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "from"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Cecalivins"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Calories"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "%"
+                },
+                {
+                  "value": "Daily"
+                },
+                {
+                  "value": "Value*/%"
+                },
+                {
+                  "value": "del"
+                },
+                {
+                  "value": "valor"
+                },
+                {
+                  "value": "diario*"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fat/Grasa"
+                },
+                {
+                  "value": "total"
+                },
+                {
+                  "value": "2"
+                },
+                {
+                  "value": "9g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "14%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Total"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fat/Grasa"
+                },
+                {
+                  "value": "saturada"
+                },
+                {
+                  "value": "2.5g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "13%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Saturated"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fat/Grasa"
+                },
+                {
+                  "value": "trans"
+                },
+                {
+                  "value": "Og"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "aoisterol/Colesterol"
+                },
+                {
+                  "value": "Trans"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0"
+                },
+                {
+                  "value": "mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sodium/Sodio"
+                },
+                {
+                  "value": "135"
+                },
+                {
+                  "value": "mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "6%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Total"
+                },
+                {
+                  "value": "Carbohydrate"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Carbohidratos"
+                },
+                {
+                  "value": "totales"
+                },
+                {
+                  "value": "15g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "5%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Dietary"
+                },
+                {
+                  "value": "Fiber/Fibra"
+                },
+                {
+                  "value": "dietéticalg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "4%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sugars/Azucares"
+                },
+                {
+                  "value": "2g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Protein/Proteina"
+                },
+                {
+                  "value": "1"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "g"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

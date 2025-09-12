@@ -1,0 +1,289 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        601,
+        1549
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.01953125,
+              0.0
+            ],
+            [
+              0.98828125,
+              1.0
+            ]
+          ],
+          "objectness_score": 0.81762528190246,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "Amount/Serving"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "%DV*"
+                },
+                {
+                  "value": "Amount/Serving"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "%DV*"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Nutrition"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Total"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "0g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0%"
+                },
+                {
+                  "value": "Total"
+                },
+                {
+                  "value": "Carb."
+                },
+                {
+                  "value": "1g"
+                },
+                {
+                  "value": "0%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Facts"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sat."
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "Og"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Dietary"
+                },
+                {
+                  "value": "Fiber"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Senv."
+                },
+                {
+                  "value": "Size"
+                },
+                {
+                  "value": "2"
+                },
+                {
+                  "value": "Tbsp."
+                },
+                {
+                  "value": "(31g)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Og"
+                },
+                {
+                  "value": "0%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Serv."
+                },
+                {
+                  "value": "Per"
+                },
+                {
+                  "value": "Container"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Trans"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "Og"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sugars"
+                },
+                {
+                  "value": "Og"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "about14"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Cholest."
+                },
+                {
+                  "value": "Omg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Protein"
+                },
+                {
+                  "value": "Og"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Calories"
+                },
+                {
+                  "value": "5g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "Cal."
+                },
+                {
+                  "value": "0"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sodium"
+                },
+                {
+                  "value": "310mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "13%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Dornont"
+                },
+                {
+                  "value": "DailValuee"
+                },
+                {
+                  "value": "IDM"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

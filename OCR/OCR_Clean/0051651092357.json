@@ -1,0 +1,194 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        745,
+        704
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.004984075372869323,
+              0.35546875
+            ],
+            [
+              0.9061404141512783,
+              0.9912109375
+            ]
+          ],
+          "objectness_score": 0.7572098749299203,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "6E"
+                },
+                {
+                  "value": "RATEAFTER"
+                },
+                {
+                  "value": "OPENING"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Nutrition"
+                },
+                {
+                  "value": "::"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Facts"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "serving"
+                },
+                {
+                  "value": "Size2Tosp"
+                },
+                {
+                  "value": "32g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "cerangs"
+                },
+                {
+                  "value": "Per"
+                },
+                {
+                  "value": "Container"
+                },
+                {
+                  "value": "about14"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "mount"
+                },
+                {
+                  "value": "Per"
+                },
+                {
+                  "value": "Serving"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "10"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "lories"
+                },
+                {
+                  "value": "180"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "Cal.140"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "€"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "%"
+                },
+                {
+                  "value": "Daiy"
+                },
+                {
+                  "value": "Value\""
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "E"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "a"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "16g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "25%"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

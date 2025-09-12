@@ -1,0 +1,351 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        234,
+        688
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.0185546875,
+              0.0
+            ],
+            [
+              0.9990234375,
+              1.0
+            ]
+          ],
+          "objectness_score": 0.7972537764481136,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "DID"
+                },
+                {
+                  "value": "un,"
+                },
+                {
+                  "value": "uicie"
+                },
+                {
+                  "value": "IS"
+                },
+                {
+                  "value": "no"
+                },
+                {
+                  "value": "Signiicant"
+                },
+                {
+                  "value": "ditterence"
+                },
+                {
+                  "value": "in"
+                },
+                {
+                  "value": "milk"
+                },
+                {
+                  "value": "from"
+                },
+                {
+                  "value": "TBST"
+                },
+                {
+                  "value": "treated"
+                },
+                {
+                  "value": "COWS"
+                },
+                {
+                  "value": "and"
+                },
+                {
+                  "value": "non-rBST"
+                },
+                {
+                  "value": "treated"
+                },
+                {
+                  "value": "COW"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Nutrition"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Amount/Serving"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "%DV*"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Amount/Serving"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "%DV*"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Facts"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Total"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "8g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "13%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Total"
+                },
+                {
+                  "value": "Carb."
+                },
+                {
+                  "value": "13g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "4%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Serving"
+                },
+                {
+                  "value": "Size"
+                },
+                {
+                  "value": "10"
+                },
+                {
+                  "value": "Cup"
+                },
+                {
+                  "value": "236ml)"
+                },
+                {
+                  "value": "Sat."
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "5g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "25%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fiber"
+                },
+                {
+                  "value": "Og"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Servings"
+                },
+                {
+                  "value": "Per"
+                },
+                {
+                  "value": "Container16"
+                },
+                {
+                  "value": "Trans"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "Og"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sugars"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Calories"
+                },
+                {
+                  "value": "160"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "12g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "Cal."
+                },
+                {
+                  "value": "70"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Cholest."
+                },
+                {
+                  "value": "35mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "12%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Protein"
+                },
+                {
+                  "value": "8g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "17%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Percent"
+                },
+                {
+                  "value": "Daily"
+                },
+                {
+                  "value": "Values"
+                },
+                {
+                  "value": "(DV)"
+                },
+                {
+                  "value": "are"
+                },
+                {
+                  "value": "Sodium"
+                },
+                {
+                  "value": "125mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "5%"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

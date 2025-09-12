@@ -1,0 +1,185 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        334,
+        253
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.06553390563241107,
+              0.0322265625
+            ],
+            [
+              0.9370445281620554,
+              0.9619140625
+            ]
+          ],
+          "objectness_score": 0.7863850022355715,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "NUTRITION"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Typical"
+                },
+                {
+                  "value": "valuesper100ml"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Energy"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1725KJ/417kcal"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "fat"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "417g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "ofwhich"
+                },
+                {
+                  "value": "saturates"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "3lg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "arbohydrate"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "95g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "ofwhich"
+                },
+                {
+                  "value": "sugars"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "4.9g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fibre"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "05g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Protein"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "-"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "10g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "a"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2.290"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

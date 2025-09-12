@@ -1,0 +1,408 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        617,
+        781
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.0341796875,
+              0.022851879051863866
+            ],
+            [
+              0.9677734375,
+              0.9932178763168558
+            ]
+          ],
+          "objectness_score": 0.8319519250119318,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "PER"
+                },
+                {
+                  "value": "OATCAKE"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Calories"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fat"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Salt"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "45kcal"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1.8g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.16g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "NUTRITITIONAL"
+                },
+                {
+                  "value": "INFORMATION"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Typical"
+                },
+                {
+                  "value": "Values"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Per"
+                },
+                {
+                  "value": "Oatcake"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Per"
+                },
+                {
+                  "value": "100g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Energy"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "188kJ"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1810kJ"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "45kcal"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "431kcal"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fat"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1.8g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "17.3g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "of"
+                },
+                {
+                  "value": "which"
+                },
+                {
+                  "value": "saturates"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.4g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "4.0g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Available"
+                },
+                {
+                  "value": "Carbohydrate"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "6.1g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "58.6g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "of"
+                },
+                {
+                  "value": "which"
+                },
+                {
+                  "value": "sugars"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.1g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1.3g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fibre"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.8g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "8.0g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Protein"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1.1g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "10.2g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Salt"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.16g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1.53g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Phosphorus**"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "36.9mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "355mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "5%"
+                },
+                {
+                  "value": "RDA"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "51%"
+                },
+                {
+                  "value": "RDA"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Manganese**"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.35mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "3.46mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "18%"
+                },
+                {
+                  "value": "RDA"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "173%"
+                },
+                {
+                  "value": "RDA"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

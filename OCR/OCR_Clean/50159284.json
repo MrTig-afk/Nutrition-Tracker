@@ -1,0 +1,233 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        1028,
+        1950
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.23828125,
+              0.05726950085116733
+            ],
+            [
+              0.98046875,
+              0.9056819218142023
+            ]
+          ],
+          "objectness_score": 0.760044761829906,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "or"
+                },
+                {
+                  "value": "size"
+                },
+                {
+                  "value": "AT0"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "ation"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "100g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "I"
+                },
+                {
+                  "value": "A79"
+                },
+                {
+                  "value": "3"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2032KJ"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "955"
+                },
+                {
+                  "value": "-"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "485kcal"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "228kcal"
+                },
+                {
+                  "value": "(11%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "23.19"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "10.9g"
+                },
+                {
+                  "value": "1"
+                },
+                {
+                  "value": "(16%)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "7.49"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "3.59(18%)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "ates"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "63.0g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "29.6g"
+                },
+                {
+                  "value": "I"
+                },
+                {
+                  "value": "(11%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "55.19"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "25.9g"
+                },
+                {
+                  "value": "(29%)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "ars"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2.5g"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "(5%)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "5.4g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.16g"
+                },
+                {
+                  "value": "(3%)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.339"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

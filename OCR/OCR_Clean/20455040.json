@@ -1,0 +1,160 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        443,
+        1472
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.01171875,
+              0.01975169300225732
+            ],
+            [
+              0.9697265625,
+              0.9997178329571106
+            ]
+          ],
+          "objectness_score": 0.737279716236838,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "Nutrition"
+                },
+                {
+                  "value": "Information"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "picalvalues"
+                },
+                {
+                  "value": "per"
+                },
+                {
+                  "value": "100ml:"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "eg"
+                },
+                {
+                  "value": "1217k/295kcal;"
+                },
+                {
+                  "value": "Fat29.9g,"
+                },
+                {
+                  "value": "ofwhich"
+                },
+                {
+                  "value": "saturates"
+                },
+                {
+                  "value": "2.4g:"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "tatohydrate"
+                },
+                {
+                  "value": "5.9g"
+                },
+                {
+                  "value": "ofwhich"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "a"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "sugars.1.4g:"
+                },
+                {
+                  "value": "Fibre"
+                },
+                {
+                  "value": "<0.5g:"
+                },
+                {
+                  "value": "Protein0.48"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "05E"
+                },
+                {
+                  "value": "Per"
+                },
+                {
+                  "value": "15ml:"
+                },
+                {
+                  "value": "Energy"
+                },
+                {
+                  "value": "183kJ/44kcal."
+                },
+                {
+                  "value": "For"
+                },
+                {
+                  "value": "more"
+                },
+                {
+                  "value": "informationvist"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "R"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

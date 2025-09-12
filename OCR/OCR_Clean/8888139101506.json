@@ -1,0 +1,362 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        456,
+        628
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.02734375,
+              0.03869414747807015
+            ],
+            [
+              0.939453125,
+              0.9384422971491229
+            ]
+          ],
+          "objectness_score": 0.7490003004906669,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "NUTRIE"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2"
+                },
+                {
+                  "value": "INFORMATION"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Servings"
+                },
+                {
+                  "value": "per"
+                },
+                {
+                  "value": "package:"
+                },
+                {
+                  "value": "30"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Serving"
+                },
+                {
+                  "value": "size:"
+                },
+                {
+                  "value": "5"
+                },
+                {
+                  "value": "ml"
+                },
+                {
+                  "value": "(1"
+                },
+                {
+                  "value": "teaspoon)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Per"
+                },
+                {
+                  "value": "serving"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Per"
+                },
+                {
+                  "value": "100"
+                },
+                {
+                  "value": "ml"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Energy"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "41"
+                },
+                {
+                  "value": "kcal"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "828"
+                },
+                {
+                  "value": "kcal*"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Protein"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "(172"
+                },
+                {
+                  "value": "kj)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "("
+                },
+                {
+                  "value": "3477"
+                },
+                {
+                  "value": "kj)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.0"
+                },
+                {
+                  "value": "8"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.0"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Total"
+                },
+                {
+                  "value": "fat"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "8"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "4.6"
+                },
+                {
+                  "value": "&"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "92.0g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "saturated"
+                },
+                {
+                  "value": "fat"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "078"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1318"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Cholesterol"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": ""
+                },
+                {
+                  "value": "rbohydrate"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "ing"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "008"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "00"
+                },
+                {
+                  "value": "-"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "a"
+                },
+                {
+                  "value": "etary"
+                },
+                {
+                  "value": "fbre"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "8"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "008"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0a"
+                },
+                {
+                  "value": "a"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Jmg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "ISing"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

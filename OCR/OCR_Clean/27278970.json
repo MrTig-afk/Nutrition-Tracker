@@ -1,0 +1,402 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        588,
+        589
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.0390625,
+              0.019692349596088454
+            ],
+            [
+              0.9658203125,
+              0.9754165338010203
+            ]
+          ],
+          "objectness_score": 0.781597856747902,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "sa"
+                },
+                {
+                  "value": "guide,"
+                },
+                {
+                  "value": "we"
+                },
+                {
+                  "value": "recommend"
+                },
+                {
+                  "value": "this"
+                },
+                {
+                  "value": "product"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "povides:"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "NUTRITION"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "servings"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Typal"
+                },
+                {
+                  "value": "values"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Per"
+                },
+                {
+                  "value": "100g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Per"
+                },
+                {
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Reference"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "(peared"
+                },
+                {
+                  "value": "as"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "pack"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Intake"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "dreded)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Eherry"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "620k)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "869k)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "8400k)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "147kcal"
+                },
+                {
+                  "value": "205kcal"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2000kcal"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "a"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1.4g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2.0g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "70g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "dwhich"
+                },
+                {
+                  "value": "saturates"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.3g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.4g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "20g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "bohydrate"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "27.0g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "37.8g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "260g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Owhich"
+                },
+                {
+                  "value": "sugars"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2.5g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "3.5g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "90g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fire"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2.8g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "3.9g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "24g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "P"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "er"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "5.1g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "7.1g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "50g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.2g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.2g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "6g"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

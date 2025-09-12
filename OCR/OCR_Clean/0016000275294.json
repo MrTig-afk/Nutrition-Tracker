@@ -1,0 +1,463 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        991,
+        527
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.011522325664136635,
+              0.0126953125
+            ],
+            [
+              0.981132145398482,
+              0.9677734375
+            ]
+          ],
+          "objectness_score": 0.827296702600107,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "Nutrition"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Facts"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Serving"
+                },
+                {
+                  "value": "Size"
+                },
+                {
+                  "value": "34"
+                },
+                {
+                  "value": "cup"
+                },
+                {
+                  "value": "(49g)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Servings"
+                },
+                {
+                  "value": "Per"
+                },
+                {
+                  "value": "Container"
+                },
+                {
+                  "value": "about"
+                },
+                {
+                  "value": "10"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "with"
+                },
+                {
+                  "value": "%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Amount"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Raisin"
+                },
+                {
+                  "value": "Nut"
+                },
+                {
+                  "value": "cup"
+                },
+                {
+                  "value": "skim"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Per"
+                },
+                {
+                  "value": "Serving"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Bran"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "milk"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Calories"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "180"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "220"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Calories"
+                },
+                {
+                  "value": "from"
+                },
+                {
+                  "value": "Fat"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "25"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "25"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "%"
+                },
+                {
+                  "value": "Daily"
+                },
+                {
+                  "value": "Value**"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Total"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "3g*"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "4%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "4%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Saturated"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "0.5g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "3%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "3%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Trans"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "Og"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Polyunsaturated"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "1g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Monounsaturated"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "1g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Cholesterol"
+                },
+                {
+                  "value": "Omg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sodium"
+                },
+                {
+                  "value": "220mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "9%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "12%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Potassium"
+                },
+                {
+                  "value": "170mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "5%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "11%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Total"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Carbohydrate"
+                },
+                {
+                  "value": "40g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "13%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "15%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Dietary"
+                },
+                {
+                  "value": "Fiber"
+                },
+                {
+                  "value": "6g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "24%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "24%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sugars"
+                },
+                {
+                  "value": "14g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Other"
+                },
+                {
+                  "value": "Carbohydrate"
+                },
+                {
+                  "value": "20g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Protein"
+                },
+                {
+                  "value": "4g"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

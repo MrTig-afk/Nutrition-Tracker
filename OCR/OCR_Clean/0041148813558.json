@@ -1,0 +1,286 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        766,
+        1454
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.060546875,
+              0.0
+            ],
+            [
+              0.927734375,
+              1.0
+            ]
+          ],
+          "objectness_score": 0.7117538580707475,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "iicience"
+                },
+                {
+                  "value": "nos"
+                },
+                {
+                  "value": "been"
+                },
+                {
+                  "value": "shown"
+                },
+                {
+                  "value": "between"
+                },
+                {
+                  "value": "milk"
+                },
+                {
+                  "value": "from"
+                },
+                {
+                  "value": "TBST/TBGH"
+                },
+                {
+                  "value": "trealeo"
+                },
+                {
+                  "value": "QNUTIVH"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "rition"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Amount/Serving"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "%"
+                },
+                {
+                  "value": "Daily"
+                },
+                {
+                  "value": "Value'"
+                },
+                {
+                  "value": "Amount/Sering"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Total"
+                },
+                {
+                  "value": "Carbohjur"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Total"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "12g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "18%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Dietayftery"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Saturated"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "7g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "37%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sugars.2"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Trans"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "Og"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "260"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "8g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "A"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Proteino"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Cholesterol"
+                },
+                {
+                  "value": "50mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "17%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "110"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "di"
+                },
+                {
+                  "value": "veS"
+                },
+                {
+                  "value": "are"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sodium"
+                },
+                {
+                  "value": "90mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "4%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "12000"
+                },
+                {
+                  "value": "calone"
+                },
+                {
+                  "value": "diei"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Calcium304"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

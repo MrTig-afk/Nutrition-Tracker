@@ -1,0 +1,359 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        1088,
+        1352
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.0166015625,
+              0.01459099264705882
+            ],
+            [
+              0.984375,
+              0.9198787913602942
+            ]
+          ],
+          "objectness_score": 0.5940707135531638,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "utrition"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "lolva"
+                },
+                {
+                  "value": "lues"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "per100g"
+                },
+                {
+                  "value": "per12"
+                },
+                {
+                  "value": "%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Macan"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "adult"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "X"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "perin"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "308"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "300"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "dacan"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "rero"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "73"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "71"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Gretqukca"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "a"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "SA0"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "05"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "05"
+                },
+                {
+                  "value": "-"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "-"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2A"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "aturates"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "01g"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "-"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "010"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "-"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "a"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "rate"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "870"
+                },
+                {
+                  "value": "-"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "850"
+                },
+                {
+                  "value": "-"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "gars"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "à"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "a"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "050"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "05"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "490"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "424"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Protein"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "600"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "590"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "12%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0030"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0020"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

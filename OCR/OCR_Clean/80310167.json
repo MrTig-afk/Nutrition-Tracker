@@ -1,0 +1,442 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        848,
+        1126
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.03125,
+              0.05133862765330188
+            ],
+            [
+              1.0,
+              0.9655185915389151
+            ]
+          ],
+          "objectness_score": 0.8170042392573779,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "NUTRITION"
+                },
+                {
+                  "value": "INFORMATION"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Typical"
+                },
+                {
+                  "value": "values"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Per"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Per"
+                },
+                {
+                  "value": "bar"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "100g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "21g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "J"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Energy"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "kcal/k"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "564/2352"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "118/493"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Protein"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "8.7"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1.8"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Carponyarates"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "9"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "53.5"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "11.2"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "of"
+                },
+                {
+                  "value": "2"
+                },
+                {
+                  "value": "which"
+                },
+                {
+                  "value": "Sugars"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "53.2"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "11.2"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fat"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "34.8"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "7.3"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "of"
+                },
+                {
+                  "value": "which"
+                },
+                {
+                  "value": "Saturates"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "22.6"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "4.8"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fibre"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.9"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.2"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sodium"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.123"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.026"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "*GDA="
+                },
+                {
+                  "value": "Guideline"
+                },
+                {
+                  "value": "Daily"
+                },
+                {
+                  "value": "Amountfor"
+                },
+                {
+                  "value": "an"
+                },
+                {
+                  "value": "adult"
+                },
+                {
+                  "value": "based"
+                },
+                {
+                  "value": "on"
+                },
+                {
+                  "value": "an"
+                },
+                {
+                  "value": "average"
+                },
+                {
+                  "value": "dail"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2000"
+                },
+                {
+                  "value": "kcal."
+                },
+                {
+                  "value": "The"
+                },
+                {
+                  "value": "nutritional"
+                },
+                {
+                  "value": "needs"
+                },
+                {
+                  "value": "Ofindividuals"
+                },
+                {
+                  "value": "may"
+                },
+                {
+                  "value": "be"
+                },
+                {
+                  "value": "higher"
+                },
+                {
+                  "value": "or"
+                },
+                {
+                  "value": "lowe"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "on"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "gender,"
+                },
+                {
+                  "value": "age,"
+                },
+                {
+                  "value": "level"
+                },
+                {
+                  "value": "of"
+                },
+                {
+                  "value": "physicalactivity"
+                },
+                {
+                  "value": "and"
+                },
+                {
+                  "value": "other"
+                },
+                {
+                  "value": "factors."
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

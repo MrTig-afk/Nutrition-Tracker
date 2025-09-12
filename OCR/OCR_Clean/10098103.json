@@ -1,0 +1,198 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        696,
+        1858
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.009765625,
+              0.041172772988505746
+            ],
+            [
+              0.9921875,
+              1.0
+            ]
+          ],
+          "objectness_score": 0.8312347919441933,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "Nutrition"
+                },
+                {
+                  "value": "Typical"
+                },
+                {
+                  "value": "values."
+                },
+                {
+                  "value": "100g"
+                },
+                {
+                  "value": "contains:"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Energy"
+                },
+                {
+                  "value": "84kJ/20kcal,"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "à"
+                },
+                {
+                  "value": "0.3g"
+                },
+                {
+                  "value": "(of"
+                },
+                {
+                  "value": "which"
+                },
+                {
+                  "value": "saturates"
+                },
+                {
+                  "value": "0.1g),"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Carbohydrate"
+                },
+                {
+                  "value": "3.1g"
+                },
+                {
+                  "value": "(of"
+                },
+                {
+                  "value": "which"
+                },
+                {
+                  "value": "sugars"
+                },
+                {
+                  "value": "3.1g),"
+                },
+                {
+                  "value": "Fibre"
+                },
+                {
+                  "value": "1.0g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Protein"
+                },
+                {
+                  "value": "0.7g,"
+                },
+                {
+                  "value": "Salt"
+                },
+                {
+                  "value": "0.1g."
+                },
+                {
+                  "value": "*Reference"
+                },
+                {
+                  "value": "intake"
+                },
+                {
+                  "value": "of"
+                },
+                {
+                  "value": "an"
+                },
+                {
+                  "value": "average"
+                },
+                {
+                  "value": "adult"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "8400kJ/2000kcal),"
+                },
+                {
+                  "value": "Vitamins/Minerals"
+                },
+                {
+                  "value": "Typical"
+                },
+                {
+                  "value": "values."
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "100g"
+                },
+                {
+                  "value": "contains:"
+                },
+                {
+                  "value": "Vitamin"
+                },
+                {
+                  "value": "C17.0mg"
+                },
+                {
+                  "value": "(21%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "MDU"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "NRV)."
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

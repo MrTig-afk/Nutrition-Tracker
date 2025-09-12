@@ -1,0 +1,479 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        2592,
+        1605
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.0,
+              0.0009765625
+            ],
+            [
+              1.0,
+              0.998046875
+            ]
+          ],
+          "objectness_score": 0.73876288932998,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "Assorted"
+                },
+                {
+                  "value": "fruit"
+                },
+                {
+                  "value": "Tavo"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "INGREDIENTS"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Glucose"
+                },
+                {
+                  "value": "Syrup,"
+                },
+                {
+                  "value": "Water,"
+                },
+                {
+                  "value": "Beef"
+                },
+                {
+                  "value": "Gelatine,"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sugar,"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Colours"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Maize"
+                },
+                {
+                  "value": "Starch,"
+                },
+                {
+                  "value": "Citric"
+                },
+                {
+                  "value": "Acid,"
+                },
+                {
+                  "value": "Flavourings,"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "(Anthocyanins,"
+                },
+                {
+                  "value": "Curcumin,"
+                },
+                {
+                  "value": "Capsanthin)."
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Nettle"
+                },
+                {
+                  "value": "Extract,"
+                },
+                {
+                  "value": "Spinach"
+                },
+                {
+                  "value": "Extract."
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "NOARTIFICIALCOLOURS"
+                },
+                {
+                  "value": "ORFLAVOURS."
+                },
+                {
+                  "value": "à"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "As"
+                },
+                {
+                  "value": "a"
+                },
+                {
+                  "value": "guide,"
+                },
+                {
+                  "value": "we"
+                },
+                {
+                  "value": "recommend"
+                },
+                {
+                  "value": "this"
+                },
+                {
+                  "value": "product"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "provides:"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "ser"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "NUTRITION"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Per"
+                },
+                {
+                  "value": "100g"
+                },
+                {
+                  "value": "Per"
+                },
+                {
+                  "value": "25g"
+                },
+                {
+                  "value": "Guideline"
+                },
+                {
+                  "value": "daily"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Typical"
+                },
+                {
+                  "value": "values"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "serving"
+                },
+                {
+                  "value": "Women"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1445k)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "364kJ"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Energy"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "340kcal"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "86kcal"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2000"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Protein"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "6.2g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1.6g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "45g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Carbohydrate"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "78.7g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "to"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "230g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "of"
+                },
+                {
+                  "value": "which"
+                },
+                {
+                  "value": "sugars"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "73.1g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "18.38"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "90g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fat"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Trace"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Trace"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "70g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "ofwhich"
+                },
+                {
+                  "value": "saturates"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Trace"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Trace"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "20g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fibre"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Trace"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Trace"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "24g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sodium"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Trace"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "The"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

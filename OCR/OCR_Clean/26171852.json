@@ -1,0 +1,318 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        616,
+        1092
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.0224609375,
+              0.03950639204545453
+            ],
+            [
+              0.96484375,
+              0.9431818181818181
+            ]
+          ],
+          "objectness_score": 0.7703888673408359,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "NUTRITIONINFORMATION"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Servings"
+                },
+                {
+                  "value": "per"
+                },
+                {
+                  "value": "package:2.5"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "6"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Serving"
+                },
+                {
+                  "value": "size:"
+                },
+                {
+                  "value": "130g"
+                },
+                {
+                  "value": "(2"
+                },
+                {
+                  "value": "skewers"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "-"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Ave,Quantity"
+                },
+                {
+                  "value": "%Daily"
+                },
+                {
+                  "value": "Intake*"
+                },
+                {
+                  "value": "Ave."
+                },
+                {
+                  "value": "Quantity"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "EE"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "per"
+                },
+                {
+                  "value": "Serving"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "per"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "Serving"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "per100g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "-"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "598KJ(143"
+                },
+                {
+                  "value": "Cal)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "7%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "460KJ(110"
+                },
+                {
+                  "value": "Cal"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "a"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "i"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "29,39"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "59%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "22.59"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "099"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "079"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "L"
+                },
+                {
+                  "value": "6"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "039"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.29"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Parbobydrate"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "399"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "3.09"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "sugars"
+                },
+                {
+                  "value": "LESSTHAN19"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "LESSTHAN19"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Aun"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "138"
+                },
+                {
+                  "value": "mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "106mg"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

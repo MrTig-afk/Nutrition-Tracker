@@ -1,0 +1,232 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        946,
+        693
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.028087797619047616,
+              0.0234375
+            ],
+            [
+              0.9705791170634921,
+              0.9599609375
+            ]
+          ],
+          "objectness_score": 0.8030391262798775,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "Nutrition"
+                },
+                {
+                  "value": "Facts"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Serving"
+                },
+                {
+                  "value": "Size"
+                },
+                {
+                  "value": "8.12"
+                },
+                {
+                  "value": "fluid"
+                },
+                {
+                  "value": "ounces(240ml)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Amount"
+                },
+                {
+                  "value": "Per"
+                },
+                {
+                  "value": "Serving"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Calories"
+                },
+                {
+                  "value": "103.2"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "%Daily"
+                },
+                {
+                  "value": "Value*"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Total"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "a"
+                },
+                {
+                  "value": "2.2g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "3.4%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Saturated"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "a"
+                },
+                {
+                  "value": "1.4g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "7%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Trans"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "0.2g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Cholesterol"
+                },
+                {
+                  "value": "7.2mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2.4%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sodium"
+                },
+                {
+                  "value": "84mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "3.5%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Total"
+                },
+                {
+                  "value": "Carbohydrate"
+                },
+                {
+                  "value": "18.5g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "6.2%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sugars"
+                },
+                {
+                  "value": "17.0g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Protein"
+                },
+                {
+                  "value": "2.2g"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

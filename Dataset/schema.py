@@ -2,14 +2,18 @@ import os
 import json
 import requests
 
+# Load API key from environment
+API_KEY = os.getenv("OPENROUTER_API_KEY")
+if not API_KEY:
+    raise ValueError("Please set the OPENROUTER_API_KEY environment variable.")
+
 # CONFIGURATION — update if needed
 INPUT_FOLDER = r"D:\Projects\Calories\OCR\OCR_Clean"
 OUTPUT_FOLDER = r"D:\Projects\Calories\Dataset\Training_output_schema"
 API_PASS_FILE = os.path.join(OUTPUT_FOLDER, "api_pass.txt")
 API_FAIL_FILE = os.path.join(OUTPUT_FOLDER, "api_fail.txt")
 
-# Updated OpenRouter API key and free-tier model
-API_KEY = "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"
+# Model
 MODEL = "openai/gpt-oss-20b:free"
 
 PROMPT_TEMPLATE = """

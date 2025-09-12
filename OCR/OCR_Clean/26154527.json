@@ -1,0 +1,533 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        1585,
+        1719
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.029296875,
+              0.02445349467665614
+            ],
+            [
+              0.98828125,
+              1.0
+            ]
+          ],
+          "objectness_score": 0.7790208888639297,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "NUTRITION"
+                },
+                {
+                  "value": "INFORMATION"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Servings"
+                },
+                {
+                  "value": "er"
+                },
+                {
+                  "value": "package:"
+                },
+                {
+                  "value": "approx."
+                },
+                {
+                  "value": "45"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Serving"
+                },
+                {
+                  "value": "SI"
+                },
+                {
+                  "value": "2."
+                },
+                {
+                  "value": "e:"
+                },
+                {
+                  "value": "5g"
+                },
+                {
+                  "value": "(1"
+                },
+                {
+                  "value": "teaspoon,"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Ave."
+                },
+                {
+                  "value": "Quantity"
+                },
+                {
+                  "value": "%"
+                },
+                {
+                  "value": "Daily"
+                },
+                {
+                  "value": "Intake*"
+                },
+                {
+                  "value": "Ave."
+                },
+                {
+                  "value": "Quantity"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "per"
+                },
+                {
+                  "value": "Serving"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "per"
+                },
+                {
+                  "value": "Serving"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "per"
+                },
+                {
+                  "value": "100g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Energy"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "12kJ"
+                },
+                {
+                  "value": "(3"
+                },
+                {
+                  "value": "Cal)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.1"
+                },
+                {
+                  "value": "%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "239"
+                },
+                {
+                  "value": "KJ"
+                },
+                {
+                  "value": "(57"
+                },
+                {
+                  "value": "Cal)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Protein"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "LESS"
+                },
+                {
+                  "value": "THAN"
+                },
+                {
+                  "value": "0.1"
+                },
+                {
+                  "value": "g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.2"
+                },
+                {
+                  "value": "9"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fat,"
+                },
+                {
+                  "value": "total"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "LESS"
+                },
+                {
+                  "value": "THAN1"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "1"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "3g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "saturated"
+                },
+                {
+                  "value": "LESS"
+                },
+                {
+                  "value": "THAN"
+                },
+                {
+                  "value": "0.1"
+                },
+                {
+                  "value": "g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.4"
+                },
+                {
+                  "value": "%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "LESS"
+                },
+                {
+                  "value": "THAN19"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Carbohydrate"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "LESS"
+                },
+                {
+                  "value": "THAN"
+                },
+                {
+                  "value": "V"
+                },
+                {
+                  "value": "1"
+                },
+                {
+                  "value": "9"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.3"
+                },
+                {
+                  "value": "%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "5g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "a"
+                },
+                {
+                  "value": "sugars"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "LESS"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "3g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "THAN1"
+                },
+                {
+                  "value": "-"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sodium"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "6r"
+                },
+                {
+                  "value": "mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.3"
+                },
+                {
+                  "value": "%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "115"
+                },
+                {
+                  "value": "mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "\"Percentage"
+                },
+                {
+                  "value": "Daily"
+                },
+                {
+                  "value": "Intakes"
+                },
+                {
+                  "value": "are"
+                },
+                {
+                  "value": "based"
+                },
+                {
+                  "value": "on"
+                },
+                {
+                  "value": "an"
+                },
+                {
+                  "value": "average"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "adult"
+                },
+                {
+                  "value": "diet"
+                },
+                {
+                  "value": "of"
+                },
+                {
+                  "value": "8700kJ."
+                },
+                {
+                  "value": "Your"
+                },
+                {
+                  "value": "daily"
+                },
+                {
+                  "value": "intakes"
+                },
+                {
+                  "value": "may"
+                },
+                {
+                  "value": "be"
+                },
+                {
+                  "value": "higher"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "or"
+                },
+                {
+                  "value": "lower"
+                },
+                {
+                  "value": "depending"
+                },
+                {
+                  "value": "on"
+                },
+                {
+                  "value": "your"
+                },
+                {
+                  "value": "energy"
+                },
+                {
+                  "value": "needs."
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Neidity"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,345 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        530,
+        1006
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.0048828125,
+              0.029178950471698106
+            ],
+            [
+              0.97265625,
+              1.0
+            ]
+          ],
+          "objectness_score": 0.8386421278119087,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "Nutrition"
+                },
+                {
+                  "value": "Amount/Serving"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "%"
+                },
+                {
+                  "value": "DV*"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Amount/Serving"
+                },
+                {
+                  "value": "%DV*"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Total"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "9g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "14%"
+                },
+                {
+                  "value": "Total"
+                },
+                {
+                  "value": "Carb."
+                },
+                {
+                  "value": "2g"
+                },
+                {
+                  "value": "1%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Facts"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sat."
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "1.5g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "8%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fiber"
+                },
+                {
+                  "value": "Og"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Senv.Size"
+                },
+                {
+                  "value": "2Tbsp"
+                },
+                {
+                  "value": "(30mL"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Servings"
+                },
+                {
+                  "value": "about16"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Trans"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "Og"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sugars"
+                },
+                {
+                  "value": "1g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Calories"
+                },
+                {
+                  "value": "90"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Cholest."
+                },
+                {
+                  "value": "15mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "5%"
+                },
+                {
+                  "value": "Protein"
+                },
+                {
+                  "value": "Og"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Calories"
+                },
+                {
+                  "value": "from"
+                },
+                {
+                  "value": "fat80"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sodium"
+                },
+                {
+                  "value": "240mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "10%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "PerentDaly"
+                },
+                {
+                  "value": "Values"
+                },
+                {
+                  "value": "DVare"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Vitamin"
+                },
+                {
+                  "value": "A"
+                },
+                {
+                  "value": "0%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Vitamin"
+                },
+                {
+                  "value": "C"
+                },
+                {
+                  "value": "6%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "basedona2000"
+                },
+                {
+                  "value": "calone"
+                },
+                {
+                  "value": "diet"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Calcium"
+                },
+                {
+                  "value": "0%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "coIrure."
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Iron"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "uuren"
+                },
+                {
+                  "value": "urorti"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0%"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

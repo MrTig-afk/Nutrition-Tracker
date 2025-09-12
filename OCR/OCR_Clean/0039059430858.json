@@ -1,0 +1,266 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        1206,
+        1076
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.03481681284851301,
+              0.02734375
+            ],
+            [
+              0.9531431517193308,
+              0.990234375
+            ]
+          ],
+          "objectness_score": 0.6582726191642673,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "Nutrition"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Facts"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sering"
+                },
+                {
+                  "value": "Size"
+                },
+                {
+                  "value": "1/4,"
+                },
+                {
+                  "value": "-"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "a"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "cup"
+                },
+                {
+                  "value": "(80ml)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fincs"
+                },
+                {
+                  "value": "PerCortainer"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "16"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sorving"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "ria"
+                },
+                {
+                  "value": "210"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Calories"
+                },
+                {
+                  "value": "from"
+                },
+                {
+                  "value": "Fato"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Total"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "%"
+                },
+                {
+                  "value": "Daily"
+                },
+                {
+                  "value": "Valus'"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "09"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Trans"
+                },
+                {
+                  "value": "Fatog"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sodiurn"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Srg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Total"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Carnohydrate"
+                },
+                {
+                  "value": "539"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "18%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Surars"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "50g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Prttsin"
+                },
+                {
+                  "value": "00"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "ur"
+                },
+                {
+                  "value": "."
+                },
+                {
+                  "value": "A"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

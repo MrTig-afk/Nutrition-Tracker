@@ -1,0 +1,389 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        1057,
+        1208
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.04296875,
+              0.0267857142857143
+            ],
+            [
+              0.943359375,
+              0.9654017857142857
+            ]
+          ],
+          "objectness_score": 0.7684721308095115,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "Asa"
+                },
+                {
+                  "value": "guide,"
+                },
+                {
+                  "value": "we"
+                },
+                {
+                  "value": "recommend"
+                },
+                {
+                  "value": "this"
+                },
+                {
+                  "value": "product"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "provides:"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "6"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "NUTRITION"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "servings"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Typical"
+                },
+                {
+                  "value": "values"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Per"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Per"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Reference"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "100g"
+                },
+                {
+                  "value": "handful"
+                },
+                {
+                  "value": "(80g)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Intake"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Energy"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "278k"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "227"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "8400kJ"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "65keal"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2a"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "000kcal"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fat"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.lg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.1g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "70g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "ofwhich"
+                },
+                {
+                  "value": "saturates"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Trace"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Trace"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "20g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Carbohydrate"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1548"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "238"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "260g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "01"
+                },
+                {
+                  "value": "whichsugars"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "15.4g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "13g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "90g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fibre"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.7g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.6g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "24g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Proten"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.4g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "03g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "50g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Salt"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Trace"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Trace"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "6g"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

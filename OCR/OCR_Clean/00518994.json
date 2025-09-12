@@ -1,0 +1,348 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        1112,
+        1229
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.0126953125,
+              0.038054322167266175
+            ],
+            [
+              0.98046875,
+              1.0
+            ]
+          ],
+          "objectness_score": 0.7550882169029169,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "NUTRITION"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "per"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "per"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Serves/Portions/Porties:"
+                },
+                {
+                  "value": "1"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "100g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "pot"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "values/Valeurs"
+                },
+                {
+                  "value": "moyennes,"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "(150g)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Typical"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Gemiddelde"
+                },
+                {
+                  "value": "waarden"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Energy"
+                },
+                {
+                  "value": "kJ/Energie/Energie"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "619"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "931"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Energy"
+                },
+                {
+                  "value": "kcal"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "148"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "223"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fat/Matières"
+                },
+                {
+                  "value": "grasses/Vetten"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "8.1g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "12.2g:"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "ofwhich"
+                },
+                {
+                  "value": "saturates/dont"
+                },
+                {
+                  "value": "acides"
+                },
+                {
+                  "value": "gras"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "5.5g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "8.3g"
+                },
+                {
+                  "value": "-"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "satures/waarvan"
+                },
+                {
+                  "value": "verzadigde"
+                },
+                {
+                  "value": "vetzuren"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Carbohydrate/Glucides/Koolhydraten"
+                },
+                {
+                  "value": "15.2g"
+                },
+                {
+                  "value": "22.8g:"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "of"
+                },
+                {
+                  "value": "which"
+                },
+                {
+                  "value": "sugars/dont"
+                },
+                {
+                  "value": "sucres/"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "15.2g"
+                },
+                {
+                  "value": "22.8g:"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "waarvan"
+                },
+                {
+                  "value": "suikers"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fibre/Fibres"
+                },
+                {
+                  "value": "alimentaires/Vezels"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "<0.5g"
+                },
+                {
+                  "value": "<0.5g:"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Putin-Proténes/Eivitten"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "3.6g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "5.4g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Satt/Sel/Zout"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.10g"
+                },
+                {
+                  "value": "0.15g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Refe"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

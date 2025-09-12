@@ -1,0 +1,320 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        312,
+        355
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.0283203125,
+              0.01887081830929488
+            ],
+            [
+              0.9443359375,
+              0.8333458533653846
+            ]
+          ],
+          "objectness_score": 0.6422045743971501,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "NUTRITION"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "INFORMATION"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "ervings"
+                },
+                {
+                  "value": "per"
+                },
+                {
+                  "value": "package:5"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "erving"
+                },
+                {
+                  "value": "size:"
+                },
+                {
+                  "value": "50g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "nye"
+                },
+                {
+                  "value": "Juantily"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "pan"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "a"
+                },
+                {
+                  "value": "Ave"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "o"
+                },
+                {
+                  "value": "a"
+                },
+                {
+                  "value": "TnD"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "E"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "-"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Aantry"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "peroug"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Energy"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "5451337130"
+                },
+                {
+                  "value": "a"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "dotatn"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "100031261"
+                },
+                {
+                  "value": "Al"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "a"
+                },
+                {
+                  "value": "-"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "gluten"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "E"
+                },
+                {
+                  "value": "-"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "L"
+                },
+                {
+                  "value": "total"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "-"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "umg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "saturated"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "u"
+                },
+                {
+                  "value": "U"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "tyarate"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "8.59"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "augars"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "00"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "a"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "089"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "-"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

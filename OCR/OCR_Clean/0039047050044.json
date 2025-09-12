@@ -1,0 +1,220 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        1177,
+        774
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.017364896237080096,
+              0.046875
+            ],
+            [
+              0.9276889534883721,
+              0.919921875
+            ]
+          ],
+          "objectness_score": 0.7549845637946293,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "NUTRITION"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Typicalralues"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Per1000"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "aleursmoyennes"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "hergykJ/Energie"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1953kJ"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "denykcal"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "466kcal"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Lnides"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "19.3g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Thch"
+                },
+                {
+                  "value": "-"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "saturates"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "5.6g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "maoides"
+                },
+                {
+                  "value": "gras"
+                },
+                {
+                  "value": "saturés"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "a"
+                },
+                {
+                  "value": "bohydrate/Giucides"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "66.7g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Ofwhich"
+                },
+                {
+                  "value": "sugars/bontsucres"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "33.0g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fibre/Fibres"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "L!"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "-"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2.7g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "ProtelnPotaines"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "4.9g"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,367 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        1472,
+        1379
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.01631617113850614,
+              0.046875
+            ],
+            [
+              0.9732596084118927,
+              0.958984375
+            ]
+          ],
+          "objectness_score": 0.8000851607683933,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "Nutrition"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Information"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "values"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Per"
+                },
+                {
+                  "value": "100"
+                },
+                {
+                  "value": "g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Per"
+                },
+                {
+                  "value": "Tin"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Average"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "ENERGY"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "745"
+                },
+                {
+                  "value": "KJ"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "3010"
+                },
+                {
+                  "value": "KJ"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "180"
+                },
+                {
+                  "value": "KCAL"
+                },
+                {
+                  "value": "720"
+                },
+                {
+                  "value": "KCAL"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "PROTEIN"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2.1"
+                },
+                {
+                  "value": "g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "8.4"
+                },
+                {
+                  "value": "g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "CARBOHYDRATE"
+                },
+                {
+                  "value": "(total)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "5.6"
+                },
+                {
+                  "value": "g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "22.4"
+                },
+                {
+                  "value": "g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "of"
+                },
+                {
+                  "value": "which"
+                },
+                {
+                  "value": "SUGAR"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1.0"
+                },
+                {
+                  "value": "g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "4.0"
+                },
+                {
+                  "value": "g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "FAT"
+                },
+                {
+                  "value": "(total)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "17.0"
+                },
+                {
+                  "value": "g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "68.0"
+                },
+                {
+                  "value": "g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "of"
+                },
+                {
+                  "value": "which"
+                },
+                {
+                  "value": "SATURATES"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "12.0"
+                },
+                {
+                  "value": "g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "48.0"
+                },
+                {
+                  "value": "g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "FIBRE"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.2"
+                },
+                {
+                  "value": "g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.8"
+                },
+                {
+                  "value": "g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "SODIUM"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.015"
+                },
+                {
+                  "value": "g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.06"
+                },
+                {
+                  "value": "g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "68"
+                },
+                {
+                  "value": "g"
+                },
+                {
+                  "value": "FAT"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "720"
+                },
+                {
+                  "value": "CALORIES"
+                },
+                {
+                  "value": "PER"
+                },
+                {
+                  "value": "TIN"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

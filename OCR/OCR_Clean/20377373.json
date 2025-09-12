@@ -1,0 +1,150 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        559,
+        1596
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.0146484375,
+              0.028797238372093026
+            ],
+            [
+              0.9521484375,
+              0.9907200357781754
+            ]
+          ],
+          "objectness_score": 0.8079658496764398,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "Nutrition"
+                },
+                {
+                  "value": "Information"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "Typical"
+                },
+                {
+                  "value": "values"
+                },
+                {
+                  "value": "per"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "100g:"
+                },
+                {
+                  "value": "Energy"
+                },
+                {
+                  "value": "1712kJ/413kcal;"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "35g,"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "of"
+                },
+                {
+                  "value": "which"
+                },
+                {
+                  "value": "saturates"
+                },
+                {
+                  "value": "23g;"
+                },
+                {
+                  "value": "Carbohydrate"
+                },
+                {
+                  "value": "<0.5g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "of"
+                },
+                {
+                  "value": "which"
+                },
+                {
+                  "value": "sugars"
+                },
+                {
+                  "value": "<0.5g;"
+                },
+                {
+                  "value": "Fibre"
+                },
+                {
+                  "value": "Og;"
+                },
+                {
+                  "value": "Protein"
+                },
+                {
+                  "value": "24g;"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Salt"
+                },
+                {
+                  "value": "2.0g."
+                },
+                {
+                  "value": "Per"
+                },
+                {
+                  "value": "30g:"
+                },
+                {
+                  "value": "Energy"
+                },
+                {
+                  "value": "538kJ/130kcal."
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

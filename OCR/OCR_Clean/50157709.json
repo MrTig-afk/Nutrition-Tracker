@@ -1,0 +1,260 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        654,
+        559
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.028136879472271892,
+              0.029296875
+            ],
+            [
+              0.953582709078712,
+              0.990234375
+            ]
+          ],
+          "objectness_score": 0.8584083963084865,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "NUTRITION"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Servings"
+                },
+                {
+                  "value": "per"
+                },
+                {
+                  "value": "bottle-38"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Typical"
+                },
+                {
+                  "value": "values"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Per"
+                },
+                {
+                  "value": "100g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Per"
+                },
+                {
+                  "value": "serving"
+                },
+                {
+                  "value": "(15q"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Energy"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "476kJ"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "71kJ"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "112kcal"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "17kcal"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fat"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.1g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Trace"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "-ofwhich"
+                },
+                {
+                  "value": "saturates"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.1g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Trace"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Carbohydrate"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "25.3g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "3.8g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "of"
+                },
+                {
+                  "value": "which"
+                },
+                {
+                  "value": "sugars"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "24.8g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "3.7g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Protein"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1.4g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.2g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Salt"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1.7g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.2g"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

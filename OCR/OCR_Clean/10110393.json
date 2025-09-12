@@ -1,0 +1,454 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        3215,
+        1198
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.0,
+              0.013671875
+            ],
+            [
+              1.0,
+              0.978515625
+            ]
+          ],
+          "objectness_score": 0.775746298932481,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "Suitable"
+                },
+                {
+                  "value": "for"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "vegetar"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Ingredients"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Mixed"
+                },
+                {
+                  "value": "Multileaves"
+                },
+                {
+                  "value": "(100%)."
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "variable"
+                },
+                {
+                  "value": "proportions:"
+                },
+                {
+                  "value": "Multileaf"
+                },
+                {
+                  "value": "Contain"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Green"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Apollo"
+                },
+                {
+                  "value": "Lettuce,"
+                },
+                {
+                  "value": "Multileaf"
+                },
+                {
+                  "value": "Endive,"
+                },
+                {
+                  "value": "Mult"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Red"
+                },
+                {
+                  "value": "Batavia,"
+                },
+                {
+                  "value": "Multileaf"
+                },
+                {
+                  "value": "Lollo"
+                },
+                {
+                  "value": "Rosso,"
+                },
+                {
+                  "value": "M"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Lollo"
+                },
+                {
+                  "value": "Bionda,"
+                },
+                {
+                  "value": "Multileaf"
+                },
+                {
+                  "value": "Green"
+                },
+                {
+                  "value": "Leaf,"
+                },
+                {
+                  "value": "M"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Packaged"
+                },
+                {
+                  "value": "in"
+                },
+                {
+                  "value": "a"
+                },
+                {
+                  "value": "protective"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "atmosph"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Serving"
+                },
+                {
+                  "value": "suggestion"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Great"
+                },
+                {
+                  "value": "in"
+                },
+                {
+                  "value": "sandwiches"
+                },
+                {
+                  "value": "or"
+                },
+                {
+                  "value": "use"
+                },
+                {
+                  "value": "as"
+                },
+                {
+                  "value": "a"
+                },
+                {
+                  "value": "bas"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Serve"
+                },
+                {
+                  "value": "with"
+                },
+                {
+                  "value": "thin"
+                },
+                {
+                  "value": "slices"
+                },
+                {
+                  "value": "of"
+                },
+                {
+                  "value": "pan"
+                },
+                {
+                  "value": "fried"
+                },
+                {
+                  "value": "It"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "creamy"
+                },
+                {
+                  "value": "potato"
+                },
+                {
+                  "value": "gratin."
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Nutrition"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Typical"
+                },
+                {
+                  "value": "values"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "100g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "contains"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "72kJ"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Energy"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "17kcal"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Protein"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.8g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Carbohydrate"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1.7g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "of"
+                },
+                {
+                  "value": "which"
+                },
+                {
+                  "value": "sugars"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1.79"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fat"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.5g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "of"
+                },
+                {
+                  "value": "which"
+                },
+                {
+                  "value": "saturates"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.1g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1.4g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fibre"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "trace"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sodium"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "trace"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Salt"
+                },
+                {
+                  "value": "equivalent"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "*Guideline"
+                },
+                {
+                  "value": "daily"
+                },
+                {
+                  "value": "amounts"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

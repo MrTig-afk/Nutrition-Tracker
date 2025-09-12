@@ -1,0 +1,383 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        1973,
+        1665
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.01397100225225223,
+              0.0322265625
+            ],
+            [
+              0.9721424549549549,
+              0.974609375
+            ]
+          ],
+          "objectness_score": 0.72421884999193,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "Nutrition"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Typical"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "values"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "per"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Information"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "100g**"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Energy"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "%RIA"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fat"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "315kJ/74kcal"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "A%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "of"
+                },
+                {
+                  "value": "which"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "<0.1g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "saturates"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "<1%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "<0.1g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "arbohydrate"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "<1%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "17.5g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "7%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "ofwhich"
+                },
+                {
+                  "value": "sugars"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.8g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "<1%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fibre"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1.6g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Protein"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1.8g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "4%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Salt"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "<0.01g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "<1%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "*"
+                },
+                {
+                  "value": "Reference"
+                },
+                {
+                  "value": "intake"
+                },
+                {
+                  "value": "of"
+                },
+                {
+                  "value": "an"
+                },
+                {
+                  "value": "average"
+                },
+                {
+                  "value": "adult"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "8400KJ/2000kcal)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Vitamins,"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "per"
+                },
+                {
+                  "value": "in"
+                },
+                {
+                  "value": "100g**"
+                },
+                {
+                  "value": "%NRV"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Minerals"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Thiamin"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.21mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "13%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Potassium"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "365mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "18%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "NRV"
+                },
+                {
+                  "value": "i"
+                },
+                {
+                  "value": "Nutrient"
+                },
+                {
+                  "value": "reference"
+                },
+                {
+                  "value": "values"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

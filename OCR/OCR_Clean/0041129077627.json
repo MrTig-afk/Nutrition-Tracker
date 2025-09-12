@@ -1,0 +1,333 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        725,
+        1825
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.009765625,
+              0.005893049568965525
+            ],
+            [
+              0.9541015625,
+              1.0
+            ]
+          ],
+          "objectness_score": 0.7777184372877374,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "Nutrition"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Amount/serving"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "%"
+                },
+                {
+                  "value": "DV*"
+                },
+                {
+                  "value": "Amount/serving"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Facts"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Total"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "1g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2%"
+                },
+                {
+                  "value": "Total"
+                },
+                {
+                  "value": "Carb."
+                },
+                {
+                  "value": "10g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Serv"
+                },
+                {
+                  "value": "Size"
+                },
+                {
+                  "value": "1/2"
+                },
+                {
+                  "value": "Cup"
+                },
+                {
+                  "value": "(125g)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sat."
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "Og"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Dietary"
+                },
+                {
+                  "value": "Fiber"
+                },
+                {
+                  "value": "2q"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Servings"
+                },
+                {
+                  "value": "about5"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Trans"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "Og"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Calories"
+                },
+                {
+                  "value": "60"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sugars"
+                },
+                {
+                  "value": "6g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "Cal."
+                },
+                {
+                  "value": "10"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Cholest."
+                },
+                {
+                  "value": "Omg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0%"
+                },
+                {
+                  "value": "Protein"
+                },
+                {
+                  "value": "2g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Trcent"
+                },
+                {
+                  "value": "Daily"
+                },
+                {
+                  "value": "Values"
+                },
+                {
+                  "value": "(DV)"
+                },
+                {
+                  "value": "are"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sodium"
+                },
+                {
+                  "value": "490mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "20%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "wexd0na2,000"
+                },
+                {
+                  "value": "calorie"
+                },
+                {
+                  "value": "diet."
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Vitamin"
+                },
+                {
+                  "value": "A"
+                },
+                {
+                  "value": "6%"
+                },
+                {
+                  "value": "e"
+                },
+                {
+                  "value": "Vitamin"
+                },
+                {
+                  "value": "C"
+                },
+                {
+                  "value": "6%"
+                },
+                {
+                  "value": "e"
+                },
+                {
+                  "value": "Calcium"
+                },
+                {
+                  "value": "6%"
+                },
+                {
+                  "value": "e"
+                },
+                {
+                  "value": "Ironz"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "REDIENTS"
+                },
+                {
+                  "value": "TOMATA"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

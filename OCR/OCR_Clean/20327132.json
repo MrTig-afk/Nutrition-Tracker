@@ -1,0 +1,149 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        200,
+        669
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.0478515625,
+              0.13740722656249998
+            ],
+            [
+              0.9560546875,
+              0.8952587890625
+            ]
+          ],
+          "objectness_score": 0.8293726965785027,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "Energy"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fat"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Saturates"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sugars"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Salt"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "854kJ"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "206kcal"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "15.5g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "5.6g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Og"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.12g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "10%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "22%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "28%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2%"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

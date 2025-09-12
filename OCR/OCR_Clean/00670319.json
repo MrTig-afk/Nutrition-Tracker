@@ -1,0 +1,231 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        567,
+        830
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.0087890625,
+              0.018246389991181666
+            ],
+            [
+              0.9501953125,
+              0.9917603615520283
+            ]
+          ],
+          "objectness_score": 0.6569835838107836,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "NUTRITION"
+                },
+                {
+                  "value": "Serves/Portions/Porties:"
+                },
+                {
+                  "value": "2"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "lypical"
+                },
+                {
+                  "value": "values/Valeurs"
+                },
+                {
+                  "value": "moyennes/Gemiddelde"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "waarden"
+                },
+                {
+                  "value": "per"
+                },
+                {
+                  "value": "100g:"
+                },
+                {
+                  "value": "Energy/Energie/Energie"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "207KJ/50kcal"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "Fat/Matières"
+                },
+                {
+                  "value": "grasses/Vetten"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "3.7g,of"
+                },
+                {
+                  "value": "which"
+                },
+                {
+                  "value": "saturates/dont"
+                },
+                {
+                  "value": "acides"
+                },
+                {
+                  "value": "gras"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "aturés/waarvan"
+                },
+                {
+                  "value": "verzadigde"
+                },
+                {
+                  "value": "vetzuren"
+                },
+                {
+                  "value": "0.3g"
+                },
+                {
+                  "value": "a"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Peahrenlachcomnkcounponne"
+                },
+                {
+                  "value": "of"
+                },
+                {
+                  "value": "which"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2.0g,"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "sulkers"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "sugars/dont"
+                },
+                {
+                  "value": "sucres/waarvan"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1.9g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Ig."
+                },
+                {
+                  "value": "-"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fibre/Fibres"
+                },
+                {
+                  "value": "alimentaires/Vezels"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "altselzout"
+                },
+                {
+                  "value": "Proleinfroténes/Ewitten"
+                },
+                {
+                  "value": "1.8g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "à"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.55g."
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "STORA"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

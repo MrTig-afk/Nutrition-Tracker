@@ -1,0 +1,250 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        387,
+        840
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.0126953125,
+              0.03791182170542634
+            ],
+            [
+              0.9892578125,
+              0.9875242248062015
+            ]
+          ],
+          "objectness_score": 0.7864648547283438,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "Nutrition"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Amount"
+                },
+                {
+                  "value": "I"
+                },
+                {
+                  "value": "Serving"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "%DV*"
+                },
+                {
+                  "value": "Amount/Servin"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Facts"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Total"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "16g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "24%"
+                },
+                {
+                  "value": "Total"
+                },
+                {
+                  "value": "Carbo"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Serv"
+                },
+                {
+                  "value": "Size"
+                },
+                {
+                  "value": "2Tbsp"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sat"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "3g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "15%"
+                },
+                {
+                  "value": "Fiber2g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "(33g)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Servings"
+                },
+                {
+                  "value": "About"
+                },
+                {
+                  "value": "14"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Trans"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "Og"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sugarsa"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "10"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Calories"
+                },
+                {
+                  "value": "190"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Cholest"
+                },
+                {
+                  "value": "Omg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0%"
+                },
+                {
+                  "value": "Proteinl"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "Cal"
+                },
+                {
+                  "value": "130"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "3%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sodium"
+                },
+                {
+                  "value": "80mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "nalcull"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

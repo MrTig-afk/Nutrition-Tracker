@@ -1,0 +1,257 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        409,
+        390
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.014558293269230749,
+              0.0908203125
+            ],
+            [
+              0.9608623798076923,
+              0.966796875
+            ]
+          ],
+          "objectness_score": 0.7881096675992012,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "Nutrition"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Facts"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Valeur"
+                },
+                {
+                  "value": "nutritive"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Per"
+                },
+                {
+                  "value": "250"
+                },
+                {
+                  "value": "ML/"
+                },
+                {
+                  "value": "par"
+                },
+                {
+                  "value": "250"
+                },
+                {
+                  "value": "mL"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Value"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Amount"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "%"
+                },
+                {
+                  "value": "Daily"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Teneur"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "%"
+                },
+                {
+                  "value": "valeur"
+                },
+                {
+                  "value": "quotidienne"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Calories/Calories"
+                },
+                {
+                  "value": "120"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fat/Lipides"
+                },
+                {
+                  "value": "0g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sodium"
+                },
+                {
+                  "value": "I"
+                },
+                {
+                  "value": "I"
+                },
+                {
+                  "value": "Sodium"
+                },
+                {
+                  "value": "15"
+                },
+                {
+                  "value": "mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Potassium."
+                },
+                {
+                  "value": "I"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "Potassium"
+                },
+                {
+                  "value": "470"
+                },
+                {
+                  "value": "mg"
+                },
+                {
+                  "value": "13"
+                },
+                {
+                  "value": "%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Carbohydrate/Glucides"
+                },
+                {
+                  "value": "28"
+                },
+                {
+                  "value": "g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "9%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sugars/Sucres"
+                },
+                {
+                  "value": "25"
+                },
+                {
+                  "value": "g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Protein"
+                },
+                {
+                  "value": "/Protéines"
+                },
+                {
+                  "value": "2g"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

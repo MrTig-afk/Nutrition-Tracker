@@ -1,0 +1,425 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        1347,
+        883
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.0024308996319366005,
+              0.0
+            ],
+            [
+              0.9782026383776896,
+              0.990234375
+            ]
+          ],
+          "objectness_score": 0.7499852441251278,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "Nutrition"
+                },
+                {
+                  "value": "Facts"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Valeur"
+                },
+                {
+                  "value": "nutritive"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "(30"
+                },
+                {
+                  "value": "g)"
+                },
+                {
+                  "value": "/"
+                },
+                {
+                  "value": "pour"
+                },
+                {
+                  "value": "3"
+                },
+                {
+                  "value": "carrés"
+                },
+                {
+                  "value": "(30"
+                },
+                {
+                  "value": "g)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Per"
+                },
+                {
+                  "value": "3"
+                },
+                {
+                  "value": "squares"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "%"
+                },
+                {
+                  "value": "Daily"
+                },
+                {
+                  "value": "Value"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Amount"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "%"
+                },
+                {
+                  "value": "valeur"
+                },
+                {
+                  "value": "quotidienne"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Teneur"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Calories/Calories"
+                },
+                {
+                  "value": "170"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "22"
+                },
+                {
+                  "value": "%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "t/Lipides"
+                },
+                {
+                  "value": "14g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Saturated"
+                },
+                {
+                  "value": "/"
+                },
+                {
+                  "value": "saturés"
+                },
+                {
+                  "value": "8"
+                },
+                {
+                  "value": "g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "40"
+                },
+                {
+                  "value": "%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "+"
+                },
+                {
+                  "value": "Trans"
+                },
+                {
+                  "value": "/"
+                },
+                {
+                  "value": "trans"
+                },
+                {
+                  "value": "Og"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Cholesterol"
+                },
+                {
+                  "value": "/Cholestérol"
+                },
+                {
+                  "value": "0"
+                },
+                {
+                  "value": "mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sodium/Sodium"
+                },
+                {
+                  "value": "5"
+                },
+                {
+                  "value": "mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Carbohydrate"
+                },
+                {
+                  "value": "/"
+                },
+                {
+                  "value": "Glucides"
+                },
+                {
+                  "value": "11"
+                },
+                {
+                  "value": "g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "4%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fibre"
+                },
+                {
+                  "value": "/"
+                },
+                {
+                  "value": "Fibres"
+                },
+                {
+                  "value": "4"
+                },
+                {
+                  "value": "g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "16"
+                },
+                {
+                  "value": "%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sugars"
+                },
+                {
+                  "value": "/"
+                },
+                {
+                  "value": "Sucres"
+                },
+                {
+                  "value": "4g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Protein"
+                },
+                {
+                  "value": "/"
+                },
+                {
+                  "value": "Protéines"
+                },
+                {
+                  "value": "4g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Vitamin"
+                },
+                {
+                  "value": "A/Vitamine"
+                },
+                {
+                  "value": "A"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Vitamin"
+                },
+                {
+                  "value": "C/Vitamine"
+                },
+                {
+                  "value": "C"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Calcium"
+                },
+                {
+                  "value": "/"
+                },
+                {
+                  "value": "Calcium"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Iron"
+                },
+                {
+                  "value": "/"
+                },
+                {
+                  "value": "Fer"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "25"
+                },
+                {
+                  "value": "%"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

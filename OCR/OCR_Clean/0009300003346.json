@@ -1,0 +1,250 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        1637,
+        649
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.04184021090138673,
+              0.0302734375
+            ],
+            [
+              0.940917216390601,
+              0.9287109375
+            ]
+          ],
+          "objectness_score": 0.6533152850774618,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "Nutrition"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Facts"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "serving"
+                },
+                {
+                  "value": "Size"
+                },
+                {
+                  "value": "1"
+                },
+                {
+                  "value": "OZ"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "128g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "About3"
+                },
+                {
+                  "value": "pickles)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "servings"
+                },
+                {
+                  "value": "Calories"
+                },
+                {
+                  "value": "Usually"
+                },
+                {
+                  "value": "11"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Percent"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "5"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "DV"
+                },
+                {
+                  "value": "are"
+                },
+                {
+                  "value": "Daily"
+                },
+                {
+                  "value": "Values"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2000"
+                },
+                {
+                  "value": "calorie"
+                },
+                {
+                  "value": "based"
+                },
+                {
+                  "value": "on"
+                },
+                {
+                  "value": "a"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "diet"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "casatiserving"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Total"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "%DV*"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "Og"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sodium"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Total"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "310mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "13%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Carb.1g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Frotein"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Og"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

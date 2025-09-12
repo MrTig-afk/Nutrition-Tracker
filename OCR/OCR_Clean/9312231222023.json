@@ -1,0 +1,447 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        1337,
+        1043
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.0,
+              0.0166015625
+            ],
+            [
+              0.712811975671141,
+              0.9970703125
+            ]
+          ],
+          "objectness_score": 0.8114937394857407,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "593"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "237"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "5.3"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2.1"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1.5"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.6"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "4.6"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1.8"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "d(g)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.8"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.3"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "not"
+                },
+                {
+                  "value": "detected"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "not"
+                },
+                {
+                  "value": "detected"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "aturated"
+                },
+                {
+                  "value": "(g)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1.2"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.5"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "saturated"
+                },
+                {
+                  "value": "(g)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2.6"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "rol(mg)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "not"
+                },
+                {
+                  "value": "detected"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "not"
+                },
+                {
+                  "value": "detected"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "drate"
+                },
+                {
+                  "value": "Total"
+                },
+                {
+                  "value": "(g)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "19.3"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "7.7"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "(g)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "9.3"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "3.7"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "se"
+                },
+                {
+                  "value": "(g)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "not"
+                },
+                {
+                  "value": "detected"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "not"
+                },
+                {
+                  "value": "detected"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "tose"
+                },
+                {
+                  "value": "(g)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "not"
+                },
+                {
+                  "value": "detected"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "not"
+                },
+                {
+                  "value": "detected"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fibre"
+                },
+                {
+                  "value": "(g)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.7"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.3"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "(mg)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "95"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "38"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "n"
+                },
+                {
+                  "value": "(mg)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "6.2"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2.5"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "SUITABLE"
+                },
+                {
+                  "value": "AS"
+                },
+                {
+                  "value": "A"
+                },
+                {
+                  "value": "COMPLETE"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "I"
+                },
+                {
+                  "value": "REPLACEMENT"
+                },
+                {
+                  "value": "FOR"
+                },
+                {
+                  "value": "CHILDREN"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "ER"
+                },
+                {
+                  "value": "5"
+                },
+                {
+                  "value": "YEARS"
+                },
+                {
+                  "value": "OF"
+                },
+                {
+                  "value": "AGE."
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "GANIC"
+                },
+                {
+                  "value": "CERTIFICATION"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

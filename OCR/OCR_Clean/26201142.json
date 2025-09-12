@@ -1,0 +1,393 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        679,
+        838
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.03125,
+              0.020313650589101617
+            ],
+            [
+              0.9189453125,
+              0.9435290868924889
+            ]
+          ],
+          "objectness_score": 0.7479702115935438,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "NUTRITION"
+                },
+                {
+                  "value": "INFORMASION"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Servings"
+                },
+                {
+                  "value": "per"
+                },
+                {
+                  "value": "package:"
+                },
+                {
+                  "value": "5"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "size:"
+                },
+                {
+                  "value": "80mL"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "*"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Serving"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Ave."
+                },
+                {
+                  "value": "Quantity"
+                },
+                {
+                  "value": "%"
+                },
+                {
+                  "value": "Daily"
+                },
+                {
+                  "value": "Intake*"
+                },
+                {
+                  "value": "AY"
+                },
+                {
+                  "value": "e"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "per"
+                },
+                {
+                  "value": "Serving"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "per"
+                },
+                {
+                  "value": "Serving"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2"
+                },
+                {
+                  "value": "N"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Ener"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "594"
+                },
+                {
+                  "value": "KJ"
+                },
+                {
+                  "value": "J(142"
+                },
+                {
+                  "value": "Cal)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "7%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "743KJ"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Prot"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.7g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1"
+                },
+                {
+                  "value": "%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "99"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fat,"
+                },
+                {
+                  "value": "d"
+                },
+                {
+                  "value": "al"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "14.6g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "21"
+                },
+                {
+                  "value": "1%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "182:"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "saturated"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "12.3"
+                },
+                {
+                  "value": "à"
+                },
+                {
+                  "value": "9"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "51"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "a"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "154"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Carhunydrate"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2.0"
+                },
+                {
+                  "value": "9"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.6"
+                },
+                {
+                  "value": "%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "259"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "ugars"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1.9g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "249"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "So"
+                },
+                {
+                  "value": "am"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "18"
+                },
+                {
+                  "value": "mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.8"
+                },
+                {
+                  "value": "%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "23mg"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

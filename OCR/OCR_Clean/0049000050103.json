@@ -1,0 +1,173 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        2059,
+        1508
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.04264948918269229,
+              0.0263671875
+            ],
+            [
+              0.9826847956730769,
+              0.966796875
+            ]
+          ],
+          "objectness_score": 0.7617421033126968,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "Nutvition"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "Facts"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Serving"
+                },
+                {
+                  "value": "Size"
+                },
+                {
+                  "value": "12f102(35511"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "ServingsPer("
+                },
+                {
+                  "value": "Container6"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Amount"
+                },
+                {
+                  "value": "Per"
+                },
+                {
+                  "value": "Serving"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Galories"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "140"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "%"
+                },
+                {
+                  "value": "Baily"
+                },
+                {
+                  "value": "Value"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Total"
+                },
+                {
+                  "value": "à"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "109"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sodium"
+                },
+                {
+                  "value": "45mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "TotalCarhohydrate"
+                },
+                {
+                  "value": "399137"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sugars"
+                },
+                {
+                  "value": "39g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Protein"
+                },
+                {
+                  "value": "Og"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

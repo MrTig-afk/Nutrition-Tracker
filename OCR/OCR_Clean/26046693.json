@@ -1,0 +1,582 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        1288,
+        893
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.0013822788353863302,
+              0.013671875
+            ],
+            [
+              0.9873495240761478,
+              1.0
+            ]
+          ],
+          "objectness_score": 0.7962861392233107,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "NUTRITION"
+                },
+                {
+                  "value": "INFORMATION"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Servings"
+                },
+                {
+                  "value": "per"
+                },
+                {
+                  "value": "package:2"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Serving"
+                },
+                {
+                  "value": "SIZe:"
+                },
+                {
+                  "value": "125g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Ave."
+                },
+                {
+                  "value": "Quantity"
+                },
+                {
+                  "value": "%"
+                },
+                {
+                  "value": "Daily"
+                },
+                {
+                  "value": "Intake*"
+                },
+                {
+                  "value": "Ave."
+                },
+                {
+                  "value": "Quantity"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "per"
+                },
+                {
+                  "value": "Serving"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "per"
+                },
+                {
+                  "value": "Serving"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "per"
+                },
+                {
+                  "value": "100g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Energy"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1060"
+                },
+                {
+                  "value": "kJ"
+                },
+                {
+                  "value": "254"
+                },
+                {
+                  "value": "Cal"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "12%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "848"
+                },
+                {
+                  "value": "kJ"
+                },
+                {
+                  "value": "203"
+                },
+                {
+                  "value": "Cal"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Protein"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "21.19"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "42"
+                },
+                {
+                  "value": "%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "16.9g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "total"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "17.0g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "24%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "-"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "13.6g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "saturated"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2.8g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "12%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2.2g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "-trans"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "LESS"
+                },
+                {
+                  "value": "THAN"
+                },
+                {
+                  "value": "0.1"
+                },
+                {
+                  "value": "9"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "LESS"
+                },
+                {
+                  "value": "THAN"
+                },
+                {
+                  "value": "01"
+                },
+                {
+                  "value": "g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "polyunsaturated"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "5.6g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "4.5g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "omega3"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "4.0g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "3.2g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "alpha-linolenic"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "acid"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "425mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "340mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "eicosapentaenoic"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "acid"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "901"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "1"
+                },
+                {
+                  "value": "mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "721"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "docosahexaenoic"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "acid"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1360mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1090mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "monounsaturated"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "6.6g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "5.39"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Carbohydrate"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "4.3g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "3.4g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "sugars"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "LESS"
+                },
+                {
+                  "value": "THAN1g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "LESS"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sodium"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "THAN1g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "453mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "20"
+                },
+                {
+                  "value": "%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "*Doreor"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "362"
+                },
+                {
+                  "value": "mg"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

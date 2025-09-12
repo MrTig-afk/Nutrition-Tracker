@@ -1,0 +1,251 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        1216,
+        2031
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.0,
+              0.033509906969572345
+            ],
+            [
+              0.8935546875,
+              0.995849609375
+            ]
+          ],
+          "objectness_score": 0.7601151729331297,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "utrition"
+                },
+                {
+                  "value": "Information"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Typical"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "per"
+                },
+                {
+                  "value": "100g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "per"
+                },
+                {
+                  "value": "half"
+                },
+                {
+                  "value": "bag"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "values"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "162.5"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "285KJ/67kcal"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "463kJ/109k"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.7g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1.1g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "lich"
+                },
+                {
+                  "value": "saturates"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "<0.1g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.2"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "roohydrate"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "<0.1g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.19"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "which"
+                },
+                {
+                  "value": "sugars"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "<0.1g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.1"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "e"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "-"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "<0.5g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "<0.5g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "otein"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "15.0g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "24.4s"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1.40g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2.28"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        246,
+        589
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.0751953125,
+              0.23812245934959347
+            ],
+            [
+              0.95703125,
+              0.78759765625
+            ]
+          ],
+          "objectness_score": 0.7179179532187325,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "at"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "-"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1130k"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "268kcal"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "7.3g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "3.4g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "9"
+                },
+                {
+                  "value": "-"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.32g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "13%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "10%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "17%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "-"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "5%"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

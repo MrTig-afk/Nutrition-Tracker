@@ -1,0 +1,233 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        473,
+        680
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.025390625,
+              0.04512420718816068
+            ],
+            [
+              0.9541015625,
+              0.9590876057082452
+            ]
+          ],
+          "objectness_score": 0.8089313182979823,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "NUTRITITIONAL"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "INFORMATION"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "100ml"
+                },
+                {
+                  "value": "of"
+                },
+                {
+                  "value": "brewed"
+                },
+                {
+                  "value": "infusion"
+                },
+                {
+                  "value": "*"
+                },
+                {
+                  "value": "typically"
+                },
+                {
+                  "value": "gives"
+                },
+                {
+                  "value": "you"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Energy"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Okj/2kcal"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Protein"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Trace"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Carbohydrate"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.3g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Of"
+                },
+                {
+                  "value": "which"
+                },
+                {
+                  "value": "sugars"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Trace"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fat"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Trace"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Of"
+                },
+                {
+                  "value": "which"
+                },
+                {
+                  "value": "saturates"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Trace"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fibre"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Trace"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sodium"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Trace"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "\"based"
+                },
+                {
+                  "value": "on"
+                },
+                {
+                  "value": "infusion"
+                },
+                {
+                  "value": "brewed"
+                },
+                {
+                  "value": "with"
+                },
+                {
+                  "value": "200ml"
+                },
+                {
+                  "value": "water"
+                },
+                {
+                  "value": "for3"
+                },
+                {
+                  "value": "mins"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

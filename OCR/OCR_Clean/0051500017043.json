@@ -1,0 +1,236 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        525,
+        2267
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.03515625,
+              0.06144345238095239
+            ],
+            [
+              0.9833984375,
+              0.9554241071428571
+            ]
+          ],
+          "objectness_score": 0.799972122077082,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "Facts"
+                },
+                {
+                  "value": "Serv"
+                },
+                {
+                  "value": "Size"
+                },
+                {
+                  "value": "2"
+                },
+                {
+                  "value": "Tbsp"
+                },
+                {
+                  "value": "(32g),"
+                },
+                {
+                  "value": "Servings"
+                },
+                {
+                  "value": "About"
+                },
+                {
+                  "value": "11,"
+                },
+                {
+                  "value": "Amount"
+                },
+                {
+                  "value": "Per"
+                },
+                {
+                  "value": "Serving:"
+                },
+                {
+                  "value": "Calories"
+                },
+                {
+                  "value": "210"
+                },
+                {
+                  "value": "Fac"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "16q"
+                },
+                {
+                  "value": "125%6"
+                },
+                {
+                  "value": "DV,"
+                },
+                {
+                  "value": "Sat"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "2.5g"
+                },
+                {
+                  "value": "(12%"
+                },
+                {
+                  "value": "DV),"
+                },
+                {
+                  "value": "Trans"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "Og,"
+                },
+                {
+                  "value": "Cholest"
+                },
+                {
+                  "value": "Omg"
+                },
+                {
+                  "value": "(0%"
+                },
+                {
+                  "value": "DV,"
+                },
+                {
+                  "value": "Sodi"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2%"
+                },
+                {
+                  "value": "DV"
+                },
+                {
+                  "value": "I"
+                },
+                {
+                  "value": "Fiber"
+                },
+                {
+                  "value": "2g"
+                },
+                {
+                  "value": "(9%"
+                },
+                {
+                  "value": "DV)"
+                },
+                {
+                  "value": "Sugars"
+                },
+                {
+                  "value": "1g"
+                },
+                {
+                  "value": "Protein"
+                },
+                {
+                  "value": "8g"
+                },
+                {
+                  "value": "(8%DV),"
+                },
+                {
+                  "value": "Vitamin"
+                },
+                {
+                  "value": "A"
+                },
+                {
+                  "value": "(0%"
+                },
+                {
+                  "value": "DV"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Irom"
+                },
+                {
+                  "value": "2%"
+                },
+                {
+                  "value": "DV)"
+                },
+                {
+                  "value": "Percent"
+                },
+                {
+                  "value": "Daily"
+                },
+                {
+                  "value": "Values"
+                },
+                {
+                  "value": "(DV)"
+                },
+                {
+                  "value": "are"
+                },
+                {
+                  "value": "based"
+                },
+                {
+                  "value": "on"
+                },
+                {
+                  "value": "a2,000"
+                },
+                {
+                  "value": "calorie"
+                },
+                {
+                  "value": "diet"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

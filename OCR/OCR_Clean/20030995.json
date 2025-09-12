@@ -1,0 +1,199 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        851,
+        859
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.009765625,
+              0.0238861908783784
+            ],
+            [
+              0.9755859375,
+              0.978085294873678
+            ]
+          ],
+          "objectness_score": 0.6443095500270526,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "Mine"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Analysis"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Typical"
+                },
+                {
+                  "value": "values"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "perlitre"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sodium"
+                },
+                {
+                  "value": "a"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "A"
+                },
+                {
+                  "value": ".8mg"
+                },
+                {
+                  "value": "a"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Magnesium"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "-"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "L"
+                },
+                {
+                  "value": "a"
+                },
+                {
+                  "value": "11"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "3.0mg"
+                },
+                {
+                  "value": "a0"
+                },
+                {
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Calcium"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "25.0mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Chloride"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "30.8mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sulphate"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "eE"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": ".9mg"
+                },
+                {
+                  "value": "5"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Nitrate"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "<0.5mg"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        829,
+        1169
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.0439453125,
+              0.0469397900331725
+            ],
+            [
+              0.95703125,
+              0.9447977137364294
+            ]
+          ],
+          "objectness_score": 0.750561890553455,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "Nutrition"
+                },
+                {
+                  "value": "Information"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Serving"
+                },
+                {
+                  "value": "per"
+                },
+                {
+                  "value": "package:3"
+                },
+                {
+                  "value": "Serving"
+                },
+                {
+                  "value": "size:"
+                },
+                {
+                  "value": "45g"
+                },
+                {
+                  "value": "(drained)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Ave"
+                },
+                {
+                  "value": "Quantity"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Ave"
+                },
+                {
+                  "value": "Quantity"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Per"
+                },
+                {
+                  "value": "100g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Per"
+                },
+                {
+                  "value": "Serving"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Energy"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "134kJ"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Protein"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "60kJ"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.89"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "Total"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.4g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "THAN"
+                },
+                {
+                  "value": "0.19"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "LESS"
+                },
+                {
+                  "value": "THAN"
+                },
+                {
+                  "value": "0.1g"
+                },
+                {
+                  "value": "LESS"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.19"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Saturated"
+                },
+                {
+                  "value": "LESS"
+                },
+                {
+                  "value": "THAN"
+                },
+                {
+                  "value": "0.1g"
+                },
+                {
+                  "value": "LESS"
+                },
+                {
+                  "value": "THAN"
+                },
+                {
+                  "value": "5.89"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Carbohydrates"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2.6g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "a"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1.99"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sugars"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.9g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "7mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sodium"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "3mg"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

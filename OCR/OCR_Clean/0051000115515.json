@@ -1,0 +1,429 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        868,
+        1460
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.01171875,
+              0.0
+            ],
+            [
+              0.9951171875,
+              0.9697850662442397
+            ]
+          ],
+          "objectness_score": 0.7646842118013989,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "E"
+                },
+                {
+                  "value": "E"
+                },
+                {
+                  "value": "QULI"
+                },
+                {
+                  "value": "IUNLUIAIAI"
+                },
+                {
+                  "value": "sur"
+                },
+                {
+                  "value": "EU"
+                },
+                {
+                  "value": "Un"
+                },
+                {
+                  "value": "LUNCNICUETAILBU"
+                },
+                {
+                  "value": "a"
+                },
+                {
+                  "value": "v"
+                },
+                {
+                  "value": "a"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "."
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Nutrition"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Amount/serving"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "%DV*"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Amount/serving"
+                },
+                {
+                  "value": "%DV*"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Facts"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Total"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "t2.5g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "4%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sodium"
+                },
+                {
+                  "value": "750mg"
+                },
+                {
+                  "value": "31%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sen/Szez"
+                },
+                {
+                  "value": "12cup"
+                },
+                {
+                  "value": "120mL"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sat."
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "0.5g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "3%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Potassium"
+                },
+                {
+                  "value": "60mg"
+                },
+                {
+                  "value": "2%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "ondensed"
+                },
+                {
+                  "value": "soup"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Trans"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "Og"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Total"
+                },
+                {
+                  "value": "Carb."
+                },
+                {
+                  "value": "9g"
+                },
+                {
+                  "value": "1"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "servings"
+                },
+                {
+                  "value": "about2.5"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Calories"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Polyunsat"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "1.5g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fiber"
+                },
+                {
+                  "value": "1g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "60"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "Cal.25"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Monounsat"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "0.5g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sugars"
+                },
+                {
+                  "value": "0g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Percent"
+                },
+                {
+                  "value": "Daily"
+                },
+                {
+                  "value": "Values"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Cholest."
+                },
+                {
+                  "value": "Omg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Protein"
+                },
+                {
+                  "value": "1g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Daserd"
+                },
+                {
+                  "value": "0na2000"
+                },
+                {
+                  "value": "(DV)"
+                },
+                {
+                  "value": "are"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "I"
+                },
+                {
+                  "value": "Iron"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "calorie"
+                },
+                {
+                  "value": "diet"
+                },
+                {
+                  "value": "Vitamin"
+                },
+                {
+                  "value": "A"
+                },
+                {
+                  "value": "0%"
+                },
+                {
+                  "value": "0"
+                },
+                {
+                  "value": "Vitamin"
+                },
+                {
+                  "value": "C"
+                },
+                {
+                  "value": "0%"
+                },
+                {
+                  "value": "0"
+                },
+                {
+                  "value": "Calcium"
+                },
+                {
+                  "value": "2%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "-"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

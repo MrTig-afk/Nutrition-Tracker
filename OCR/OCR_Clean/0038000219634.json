@@ -1,0 +1,307 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        1566,
+        1039
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.0,
+              0.0146484375
+            ],
+            [
+              0.7575812830846969,
+              0.96875
+            ]
+          ],
+          "objectness_score": 0.8190512044562234,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "a"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": ""
+                },
+                {
+                  "value": "Omg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Omg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "7%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "phydrate"
+                },
+                {
+                  "value": "30g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "10%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "ber"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "less"
+                },
+                {
+                  "value": "than"
+                },
+                {
+                  "value": "1g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "3%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0%"
+                },
+                {
+                  "value": "e"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Vitamin"
+                },
+                {
+                  "value": "C"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "10%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0%"
+                },
+                {
+                  "value": "e"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Iron"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "25%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0%"
+                },
+                {
+                  "value": "e"
+                },
+                {
+                  "value": "Thiamin"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "25%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "25%"
+                },
+                {
+                  "value": "e"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Niacin"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "25%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "25%"
+                },
+                {
+                  "value": "@"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Folic"
+                },
+                {
+                  "value": "Acid"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "25%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "25%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "es"
+                },
+                {
+                  "value": "are"
+                },
+                {
+                  "value": "based"
+                },
+                {
+                  "value": "on"
+                },
+                {
+                  "value": "a"
+                },
+                {
+                  "value": "2,000"
+                },
+                {
+                  "value": "calorie"
+                },
+                {
+                  "value": "diet."
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "nay"
+                },
+                {
+                  "value": "be"
+                },
+                {
+                  "value": "higher"
+                },
+                {
+                  "value": "or"
+                },
+                {
+                  "value": "lower"
+                },
+                {
+                  "value": "depending"
+                },
+                {
+                  "value": "on"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

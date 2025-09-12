@@ -1,0 +1,368 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        541,
+        444
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.019276112049549543,
+              0.0146484375
+            ],
+            [
+              0.900999876829955,
+              0.9951171875
+            ]
+          ],
+          "objectness_score": 0.7810816994455995,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "NUTRITION"
+                },
+                {
+                  "value": "INFORMATION"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Servings"
+                },
+                {
+                  "value": "per"
+                },
+                {
+                  "value": "packagezapprox."
+                },
+                {
+                  "value": "13"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Serving"
+                },
+                {
+                  "value": "Size:"
+                },
+                {
+                  "value": "20g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Ave."
+                },
+                {
+                  "value": "Quantity"
+                },
+                {
+                  "value": "Danyintake"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "."
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "per"
+                },
+                {
+                  "value": "Serving"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "oer"
+                },
+                {
+                  "value": "Serving"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "ECTU"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Energy"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "228KJ"
+                },
+                {
+                  "value": "55Cal"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "3%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1140KJ2IS"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Proten"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "LESS"
+                },
+                {
+                  "value": "THANO19"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.2%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "029"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fat,"
+                },
+                {
+                  "value": "total"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "519"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "7%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2569"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "saturated039"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "179"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Carbohydrate"
+                },
+                {
+                  "value": "229"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "07%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1119"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "sugars"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.6g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "07%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "319"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "600mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sodium"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "120mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "5%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Percentage"
+                },
+                {
+                  "value": "DailyIntakes"
+                },
+                {
+                  "value": "are"
+                },
+                {
+                  "value": "based"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "-"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "adult"
+                },
+                {
+                  "value": "dietof8700kJ"
+                },
+                {
+                  "value": "Your"
+                },
+                {
+                  "value": "daiyina"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "higher"
+                },
+                {
+                  "value": "or"
+                },
+                {
+                  "value": "lowerdepending"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

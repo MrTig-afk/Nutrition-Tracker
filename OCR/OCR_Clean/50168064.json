@@ -1,0 +1,283 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        610,
+        1023
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.0126953125,
+              0.0
+            ],
+            [
+              0.9814453125,
+              0.9814965420081967
+            ]
+          ],
+          "objectness_score": 0.8641651523740668,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "AVERAGE"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "PER"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "PER"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "VALUES"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "100g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "BAR"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "ENERGY"
+                },
+                {
+                  "value": "(kJ)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2178"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "545"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "(kcal)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "521"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "130"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "FAT"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "27.1g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "6.8g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "of"
+                },
+                {
+                  "value": "which"
+                },
+                {
+                  "value": "SATURATES"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "15.5g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "3.9g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "CARBOHYDRATE"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "62.5g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "15.6g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "of"
+                },
+                {
+                  "value": "which"
+                },
+                {
+                  "value": "SUGARS"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "40.0g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "10.0g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "FIBRE"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2.5g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.6g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "PROTEIN"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "5.3g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1.3g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "SALT"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.23g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.06g"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

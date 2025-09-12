@@ -1,0 +1,311 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        276,
+        336
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.0048828125,
+              0.004245923913043459
+            ],
+            [
+              0.9755859375,
+              0.9375
+            ]
+          ],
+          "objectness_score": 0.8335409391185512,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "Nutritional"
+                },
+                {
+                  "value": "Information"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "lypical"
+                },
+                {
+                  "value": "values"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "per"
+                },
+                {
+                  "value": "100g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "per"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "-"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "serving"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "mergy"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1100KJ"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "45kJ"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "250kcal"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "10kcal"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Protein"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "39.0g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1.5g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Carbohydrate"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "24.0g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1.0g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "of"
+                },
+                {
+                  "value": "which"
+                },
+                {
+                  "value": "Sugars"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1.0g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "trace"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fat"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.1g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "trace"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "of"
+                },
+                {
+                  "value": "which"
+                },
+                {
+                  "value": "saturates"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "trace"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "trace"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fibre"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "3.5g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.1g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sodium"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "3.90g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.16g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Salt"
+                },
+                {
+                  "value": "(based"
+                },
+                {
+                  "value": "on"
+                },
+                {
+                  "value": "sodium)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "9.80g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.40g"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

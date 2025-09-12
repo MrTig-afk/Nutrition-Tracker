@@ -1,0 +1,168 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        480,
+        1673
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.005859375,
+              0.003055826822916663
+            ],
+            [
+              0.9619140625,
+              0.9969441731770834
+            ]
+          ],
+          "objectness_score": 0.7217544010191252,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "information"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "Typical"
+                },
+                {
+                  "value": "varues"
+                },
+                {
+                  "value": "per"
+                },
+                {
+                  "value": "100g:"
+                },
+                {
+                  "value": "cnerg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "10043/241kcal:"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "17g,of"
+                },
+                {
+                  "value": "which"
+                },
+                {
+                  "value": "saturates"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "arbohydrate"
+                },
+                {
+                  "value": "0.7g.of"
+                },
+                {
+                  "value": "which"
+                },
+                {
+                  "value": "sugars"
+                },
+                {
+                  "value": "0.5g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "5.7g:"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fibre0.7g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Prein.21g:Salt2"
+                },
+                {
+                  "value": "2.8g."
+                },
+                {
+                  "value": "Per36g:"
+                },
+                {
+                  "value": "Energy"
+                },
+                {
+                  "value": "361kJ"
+                },
+                {
+                  "value": "87kcal."
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Formore"
+                },
+                {
+                  "value": "information"
+                },
+                {
+                  "value": "visit"
+                },
+                {
+                  "value": "www.lidl.co.uk"
+                },
+                {
+                  "value": "Or"
+                },
+                {
+                  "value": "www.lidi.ie."
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "-"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

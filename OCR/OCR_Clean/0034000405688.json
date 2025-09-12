@@ -1,0 +1,299 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        699,
+        709
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.0126953125,
+              0.03048719152360513
+            ],
+            [
+              0.9765625,
+              0.9556453415593705
+            ]
+          ],
+          "objectness_score": 0.848481285572052,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "NUTRITION"
+                },
+                {
+                  "value": "INFORMATION"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "SERVING"
+                },
+                {
+                  "value": "PER"
+                },
+                {
+                  "value": "PACKAGE:"
+                },
+                {
+                  "value": "8"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "SERVING"
+                },
+                {
+                  "value": "SIZE:"
+                },
+                {
+                  "value": "15g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "QUANTITY"
+                },
+                {
+                  "value": "a"
+                },
+                {
+                  "value": "PER"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "QUANTITY"
+                },
+                {
+                  "value": "PER"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "SERVING"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "100g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "ENERGY"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "366KJ"
+                },
+                {
+                  "value": "(87"
+                },
+                {
+                  "value": "Cal)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2240KJ"
+                },
+                {
+                  "value": "(535"
+                },
+                {
+                  "value": "Cal)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "PROTEIN"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2.0g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "13.3g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "FAT,"
+                },
+                {
+                  "value": "TOTAL"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "4.5g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "29.9g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "SATURATED"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1.5g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "9.9g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "CARBOYDRATED"
+                },
+                {
+                  "value": "9.0g"
+                },
+                {
+                  "value": "I"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "60.0g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "SUGARS"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "5.0q"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "53.3q"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "SODIUM"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "55mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "366mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "ALL"
+                },
+                {
+                  "value": "VALUESARE"
+                },
+                {
+                  "value": "CONSIDERED"
+                },
+                {
+                  "value": "AVERAGES"
+                },
+                {
+                  "value": "UNLESS"
+                },
+                {
+                  "value": "OTHERWISE"
+                },
+                {
+                  "value": "STATED"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,292 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        582,
+        528
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.010220614346590884,
+              0.037109375
+            ],
+            [
+              0.9704034978693181,
+              0.9462890625
+            ]
+          ],
+          "objectness_score": 0.8461738882995233,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "Nutrition"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Typical"
+                },
+                {
+                  "value": "values"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "One-sixth"
+                },
+                {
+                  "value": "of"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "100g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "a"
+                },
+                {
+                  "value": "pot"
+                },
+                {
+                  "value": "(50g)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "contains"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "contains"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Energy"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1323kJ"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "662kJ"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "320kcal"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "160kcal"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fat"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "27.2g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "13.6g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "of"
+                },
+                {
+                  "value": "which"
+                },
+                {
+                  "value": "saturates"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2.6g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1.3g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Carbohydrate"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "8.8g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "4.4g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "of"
+                },
+                {
+                  "value": "which"
+                },
+                {
+                  "value": "sugars"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.6g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.3g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fibre"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "4.8g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2.4g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Protein"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "7.7g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "3.9g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Salt"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1.1g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.5g"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        1410,
+        1354
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.04338851320162479,
+              0.0576171875
+            ],
+            [
+              0.9637301514032497,
+              0.98046875
+            ]
+          ],
+          "objectness_score": 0.7721673004767474,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "NutritionalInformation"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "100ml"
+                },
+                {
+                  "value": "of"
+                },
+                {
+                  "value": "brewed"
+                },
+                {
+                  "value": "tea"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "typically"
+                },
+                {
+                  "value": "gives"
+                },
+                {
+                  "value": "you**"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Energy"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "3kJ/1kcal"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fat"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Og"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "ofwhich"
+                },
+                {
+                  "value": "saturates"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Og"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "-"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Carbohydrate"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Og"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "of"
+                },
+                {
+                  "value": "--"
+                },
+                {
+                  "value": "which"
+                },
+                {
+                  "value": "sugars"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Og"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "-"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Protein"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Og"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Salt"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Og"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Basedonagreenteabrewed"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "with"
+                },
+                {
+                  "value": "200ml"
+                },
+                {
+                  "value": "water"
+                },
+                {
+                  "value": "for2minutes"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

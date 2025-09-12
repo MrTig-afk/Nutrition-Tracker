@@ -1,0 +1,173 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        247,
+        1225
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.01171875,
+              0.0
+            ],
+            [
+              0.96875,
+              0.9940141067813766
+            ]
+          ],
+          "objectness_score": 0.6921913945116103,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "Nutrition"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "y"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": "vnce"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "openea,"
+                },
+                {
+                  "value": "keepremytion"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Typical"
+                },
+                {
+                  "value": "values"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "01g;"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "per"
+                },
+                {
+                  "value": "100g:"
+                },
+                {
+                  "value": "Energy"
+                },
+                {
+                  "value": "135kJ/32kcal;"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "<0.5g"
+                },
+                {
+                  "value": "of"
+                },
+                {
+                  "value": "ahichstbrds"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "130;"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Carbohydrate"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fibre"
+                },
+                {
+                  "value": "Digpder"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Salt"
+                },
+                {
+                  "value": "0.86g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "5.7g"
+                },
+                {
+                  "value": "of"
+                },
+                {
+                  "value": "which"
+                },
+                {
+                  "value": "sugars"
+                },
+                {
+                  "value": "3.2g,"
+                },
+                {
+                  "value": "starch"
+                },
+                {
+                  "value": "25g"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

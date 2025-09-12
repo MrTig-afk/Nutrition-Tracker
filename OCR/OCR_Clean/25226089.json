@@ -1,0 +1,74 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        153,
+        116
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.21018824084051724,
+              0.1259765625
+            ],
+            [
+              0.8129966998922413,
+              0.888671875
+            ]
+          ],
+          "objectness_score": 0.6224856823682785,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "energy"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "362kJ"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "87kcal"
+                },
+                {
+                  "value": "-"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "49"
+                },
+                {
+                  "value": "70"
+                },
+                {
+                  "value": "/"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

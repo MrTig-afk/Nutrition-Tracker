@@ -1,0 +1,425 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        1202,
+        744
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.03299311155913981,
+              0.0283203125
+            ],
+            [
+              0.9464964507728495,
+              0.9306640625
+            ]
+          ],
+          "objectness_score": 0.7359243026003242,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "As"
+                },
+                {
+                  "value": "a"
+                },
+                {
+                  "value": "guide,"
+                },
+                {
+                  "value": "we"
+                },
+                {
+                  "value": "recommend"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "this"
+                },
+                {
+                  "value": "product"
+                },
+                {
+                  "value": "provides:"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "6"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "NUTRITION"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "servings"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Typical"
+                },
+                {
+                  "value": "values"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Per"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "(boiled)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Per"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "100g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "serving"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Energy"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "104k)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "864"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "25kcal"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "21kcal"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Protein"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1.2g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1.0g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Carbohydrate"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2.6g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "21g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "ofwhich"
+                },
+                {
+                  "value": "sugars"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2.0g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1.6g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fat"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.7g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.6g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "ofwhich"
+                },
+                {
+                  "value": "saturates"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.lg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.1g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fibre"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1.7g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1.4g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sodium"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Nil"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Nil"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "equivalent"
+                },
+                {
+                  "value": "as"
+                },
+                {
+                  "value": "salt"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Nil"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Nil"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Vitamins"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "%RDA"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "%RDA"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Folacin"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "RDA"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "40ug"
+                },
+                {
+                  "value": "20%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "32ug"
+                },
+                {
+                  "value": "16%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "means"
+                },
+                {
+                  "value": "recommended"
+                },
+                {
+                  "value": "daily"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "allowance."
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

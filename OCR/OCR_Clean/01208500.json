@@ -1,0 +1,236 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        544,
+        378
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.0,
+              0.03125
+            ],
+            [
+              0.9904927248677249,
+              1.0
+            ]
+          ],
+          "objectness_score": 0.7049069978841921,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "NutritionFacts"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Serving"
+                },
+                {
+                  "value": "Size"
+                },
+                {
+                  "value": "1Can"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "AmountPer"
+                },
+                {
+                  "value": "Serving"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "balorles"
+                },
+                {
+                  "value": "170"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "%"
+                },
+                {
+                  "value": "Daily"
+                },
+                {
+                  "value": "Value*"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "TotalFatOg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sodium"
+                },
+                {
+                  "value": "60mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "3%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "TOtal"
+                },
+                {
+                  "value": "Carb."
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "46g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "15%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sugars"
+                },
+                {
+                  "value": "460"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "ONTAINDEW3ODA"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "Poids"
+                },
+                {
+                  "value": "Net:355ml/12Act"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "redients:"
+                },
+                {
+                  "value": "taugatsna..nop-cad"
+                },
+                {
+                  "value": "concaritre"
+                },
+                {
+                  "value": "B"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "wsteurs"
+                },
+                {
+                  "value": "d'acidité"
+                },
+                {
+                  "value": "E330-E331.ardmes"
+                },
+                {
+                  "value": "nature's,"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "-"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "-"
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": "E315-E385,"
+                },
+                {
+                  "value": "épaississ"
+                },
+                {
+                  "value": "152r"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

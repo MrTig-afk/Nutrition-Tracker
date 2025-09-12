@@ -1,0 +1,545 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        1908,
+        961
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.04629780176899062,
+              0.009765625
+            ],
+            [
+              0.9459466050988554,
+              0.9951171875
+            ]
+          ],
+          "objectness_score": 0.775900964079232,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "Nutrition"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Facts"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "="
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "11"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "7"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Serving"
+                },
+                {
+                  "value": "Size"
+                },
+                {
+                  "value": "8floz"
+                },
+                {
+                  "value": "(240"
+                },
+                {
+                  "value": "mL)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0"
+                },
+                {
+                  "value": "18"
+                },
+                {
+                  "value": "E"
+                },
+                {
+                  "value": "BT"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "a"
+                },
+                {
+                  "value": "(240"
+                },
+                {
+                  "value": "ET)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Servings"
+                },
+                {
+                  "value": "Per"
+                },
+                {
+                  "value": "Container"
+                },
+                {
+                  "value": "about"
+                },
+                {
+                  "value": "4"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "E"
+                },
+                {
+                  "value": "d"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Z"
+                },
+                {
+                  "value": "45415"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Amount"
+                },
+                {
+                  "value": "Per"
+                },
+                {
+                  "value": "Serving"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "IJ"
+                },
+                {
+                  "value": "BAAP"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Calories"
+                },
+                {
+                  "value": "4E"
+                },
+                {
+                  "value": "nVLA"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "E"
+                },
+                {
+                  "value": "120"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Calories"
+                },
+                {
+                  "value": "from"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "BEE"
+                },
+                {
+                  "value": "Hh"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "40"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "B"
+                },
+                {
+                  "value": "/"
+                },
+                {
+                  "value": "Ent"
+                },
+                {
+                  "value": "%"
+                },
+                {
+                  "value": "Daily"
+                },
+                {
+                  "value": "Value\""
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Total"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "AE"
+                },
+                {
+                  "value": "BE"
+                },
+                {
+                  "value": "A5"
+                },
+                {
+                  "value": "4.5g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "7%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Saturated"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "ÉETAREBS"
+                },
+                {
+                  "value": "1g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "5%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Trans"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "RIHE"
+                },
+                {
+                  "value": "Hj"
+                },
+                {
+                  "value": "Og"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Polyunsaturated"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "STNEUKHAD"
+                },
+                {
+                  "value": "2.5g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Monounsaturated"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "EINECRABD"
+                },
+                {
+                  "value": "1g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Cholesterol"
+                },
+                {
+                  "value": "H"
+                },
+                {
+                  "value": "6s"
+                },
+                {
+                  "value": "="
+                },
+                {
+                  "value": "Omg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sodium"
+                },
+                {
+                  "value": "EP"
+                },
+                {
+                  "value": "60mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "3%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Potassium"
+                },
+                {
+                  "value": "EP"
+                },
+                {
+                  "value": "300mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "8%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Total"
+                },
+                {
+                  "value": "Carbohydrate"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "TIVLI"
+                },
+                {
+                  "value": "4E"
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": "7K1L"
+                },
+                {
+                  "value": "ie"
+                },
+                {
+                  "value": "#JJ"
+                },
+                {
+                  "value": "14g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "5%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Dietary"
+                },
+                {
+                  "value": "Fiber"
+                },
+                {
+                  "value": "FE"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "#"
+                },
+                {
+                  "value": "Og"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sugars"
+                },
+                {
+                  "value": "*"
+                },
+                {
+                  "value": "15"
+                },
+                {
+                  "value": "13g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Protein"
+                },
+                {
+                  "value": "TVLA"
+                },
+                {
+                  "value": "LE"
+                },
+                {
+                  "value": "IE"
+                },
+                {
+                  "value": "E"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "I"
+                },
+                {
+                  "value": "7g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "14%"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

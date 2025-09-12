@@ -1,0 +1,251 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        729,
+        914
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.025390625,
+              0.060445066015089144
+            ],
+            [
+              0.990234375,
+              0.9762865440672154
+            ]
+          ],
+          "objectness_score": 0.7589931686719259,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "NUTRITION"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "per"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Typical"
+                },
+                {
+                  "value": "values"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "100ml"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Valeurs"
+                },
+                {
+                  "value": "moyennes/Gemiddelde"
+                },
+                {
+                  "value": "waarden"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Energy"
+                },
+                {
+                  "value": "KJ/Energie/Energie"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "760"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Energy"
+                },
+                {
+                  "value": "kcal"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "184"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fat/Matières"
+                },
+                {
+                  "value": "grasses/Vetten"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "19.2g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "of"
+                },
+                {
+                  "value": "which"
+                },
+                {
+                  "value": "saturates/dont"
+                },
+                {
+                  "value": "acides"
+                },
+                {
+                  "value": "gras"
+                },
+                {
+                  "value": "saturés/"
+                },
+                {
+                  "value": "16.6g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "waarvan"
+                },
+                {
+                  "value": "verzadigde"
+                },
+                {
+                  "value": "vetzuren"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Carbohydrate/Glucides/Koolhydraten"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2.3g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "of"
+                },
+                {
+                  "value": "which"
+                },
+                {
+                  "value": "sugars/dont"
+                },
+                {
+                  "value": "sucres/waarvan"
+                },
+                {
+                  "value": "suikers"
+                },
+                {
+                  "value": "2.19"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fibre/Fibres"
+                },
+                {
+                  "value": "alimentaires/Vezels"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "<0.5g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Protein/Protéines/Eivitten"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.6g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.189"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Salt/Sel/Zout"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

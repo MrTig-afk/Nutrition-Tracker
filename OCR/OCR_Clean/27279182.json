@@ -1,0 +1,217 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        297,
+        450
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.0634765625,
+              0.004320549242424254
+            ],
+            [
+              1.0,
+              1.0
+            ]
+          ],
+          "objectness_score": 0.7695643998682499,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "NUTRITION"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "a"
+                },
+                {
+                  "value": "guide,"
+                },
+                {
+                  "value": "*"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "recommend"
+                },
+                {
+                  "value": "thes"
+                },
+                {
+                  "value": "product"
+                },
+                {
+                  "value": "P"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "16"
+                },
+                {
+                  "value": "servings."
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Typical"
+                },
+                {
+                  "value": "values"
+                },
+                {
+                  "value": "per"
+                },
+                {
+                  "value": "100g:"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Energy"
+                },
+                {
+                  "value": "1450kJ/341kcal,"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Protein"
+                },
+                {
+                  "value": "0.1g,"
+                },
+                {
+                  "value": "Carbohydrate"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "of"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "84.3g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "which"
+                },
+                {
+                  "value": "sugars"
+                },
+                {
+                  "value": "821g,"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "0.4g,"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "of"
+                },
+                {
+                  "value": "which"
+                },
+                {
+                  "value": "saturates"
+                },
+                {
+                  "value": "0.2g,"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fibre"
+                },
+                {
+                  "value": "0.1g"
+                },
+                {
+                  "value": "Sodium"
+                },
+                {
+                  "value": "Trace,"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "-"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "equivaler"
+                },
+                {
+                  "value": "ot"
+                },
+                {
+                  "value": "ascalt"
+                },
+                {
+                  "value": "Trace"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Pack"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

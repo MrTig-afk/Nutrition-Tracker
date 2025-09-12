@@ -1,0 +1,270 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        719,
+        601
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.031511608257071555,
+              0.025390625
+            ],
+            [
+              0.9252612832778702,
+              0.958984375
+            ]
+          ],
+          "objectness_score": 0.7784640290016351,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "Nutrition"
+                },
+                {
+                  "value": "Information"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "TYPICALVALUES"
+                },
+                {
+                  "value": "PER"
+                },
+                {
+                  "value": "100g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "ENERGY"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2906"
+                },
+                {
+                  "value": "kJ/707"
+                },
+                {
+                  "value": "kcal"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "PROTEIN"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.5g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "CARBOHYDRATE"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.7g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "ofwhich"
+                },
+                {
+                  "value": "sugars"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.7g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "FAT"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "78g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "ofwhich"
+                },
+                {
+                  "value": "saturates"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "38.2g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "FIBRE"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "nil"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "SODIUM"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.7g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "VITAMINA"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "771pg"
+                },
+                {
+                  "value": "(96%"
+                },
+                {
+                  "value": "RDA)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "VITAMIND"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "8.8pg"
+                },
+                {
+                  "value": "(176%"
+                },
+                {
+                  "value": "RDA)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "VITAMIN"
+                },
+                {
+                  "value": "I"
+                },
+                {
+                  "value": "E"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "7.76mg"
+                },
+                {
+                  "value": "(65%"
+                },
+                {
+                  "value": "RDA)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "RDA="
+                },
+                {
+                  "value": "Recommended"
+                },
+                {
+                  "value": "Daily"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Allowance."
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

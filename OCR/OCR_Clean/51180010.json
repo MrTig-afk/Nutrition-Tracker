@@ -1,0 +1,196 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        400,
+        478
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.052734375,
+              0.03787109374999997
+            ],
+            [
+              0.986328125,
+              0.9749658203125
+            ]
+          ],
+          "objectness_score": 0.6434330886602402,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "UN"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "IONA"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "."
+                },
+                {
+                  "value": "-"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "cnergy"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Protein"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "800KJ/200kca"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Carbohydrate"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "200"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Which"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "17.00"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "sugars"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "11.00"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "ot"
+                },
+                {
+                  "value": "which"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "10.00"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "hbre"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "saturates"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.50"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "odium"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2.00"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "341"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "3"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

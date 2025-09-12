@@ -1,0 +1,156 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        1377,
+        1143
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.03999292568897639,
+              0.017578125
+            ],
+            [
+              0.9705954724409449,
+              0.9375
+            ]
+          ],
+          "objectness_score": 0.7513046250456855,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "NutritionFacts"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "wvingSuo@tioz(@40mt)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Servings.Per/Container"
+                },
+                {
+                  "value": "rabout8"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Amount"
+                },
+                {
+                  "value": "PerServing"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Calories110"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Dally"
+                },
+                {
+                  "value": "Value"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "TotalFatOg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sodium25mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Total"
+                },
+                {
+                  "value": "Carbohydrate"
+                },
+                {
+                  "value": "29g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "10%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sugars"
+                },
+                {
+                  "value": "29g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Protein"
+                },
+                {
+                  "value": "09"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

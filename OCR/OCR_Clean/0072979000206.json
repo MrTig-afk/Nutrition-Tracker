@@ -1,0 +1,205 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        974,
+        683
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.030680934297218132,
+              0.0
+            ],
+            [
+              0.9331104730966325,
+              0.9580078125
+            ]
+          ],
+          "objectness_score": 0.7189728074840137,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "Nutrition.Facts"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Size"
+                },
+                {
+                  "value": "1-Can"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Serv."
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Amount"
+                },
+                {
+                  "value": "Pe"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "S"
+                },
+                {
+                  "value": "FV"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "-"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Calorie"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "MOONS"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Daily"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "alue"
+                },
+                {
+                  "value": "2"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "TotalFa"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Og"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sodium"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "TotalCarb"
+                },
+                {
+                  "value": "33g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "11%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sugars"
+                },
+                {
+                  "value": "33g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Protein"
+                },
+                {
+                  "value": "Og"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

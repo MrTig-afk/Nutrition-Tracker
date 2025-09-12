@@ -1,0 +1,150 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        321,
+        868
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.021484375,
+              0.0
+            ],
+            [
+              0.9619140625,
+              0.8538502725856698
+            ]
+          ],
+          "objectness_score": 0.7240357210761622,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "One"
+                },
+                {
+                  "value": "serving."
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "us"
+                },
+                {
+                  "value": "CUTQRE"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sal"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Energ"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fat"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Saturates"
+                },
+                {
+                  "value": "Sugars"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1219k/"
+                },
+                {
+                  "value": "."
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "<0.18"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.06"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "287kcal"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.8g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.2g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "14%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "11"
+                },
+                {
+                  "value": "or"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

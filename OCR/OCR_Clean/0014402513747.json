@@ -1,0 +1,134 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        158,
+        808
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.0185546875,
+              0.05053401898734178
+            ],
+            [
+              0.9560546875,
+              0.8895371835443038
+            ]
+          ],
+          "objectness_score": 0.821529401673211,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "NUTRITION"
+                },
+                {
+                  "value": "Typical"
+                },
+                {
+                  "value": "values"
+                },
+                {
+                  "value": "per"
+                },
+                {
+                  "value": "100g:"
+                },
+                {
+                  "value": "Energy"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "778KJ/187kcal"
+                },
+                {
+                  "value": "."
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "12.3g,"
+                },
+                {
+                  "value": "of"
+                },
+                {
+                  "value": "which"
+                },
+                {
+                  "value": "saturates"
+                },
+                {
+                  "value": "5.9g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Carbohydrate"
+                },
+                {
+                  "value": "0.0g,"
+                },
+                {
+                  "value": "of"
+                },
+                {
+                  "value": "which"
+                },
+                {
+                  "value": "sugars"
+                },
+                {
+                  "value": "0.0g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fibre"
+                },
+                {
+                  "value": "0.0g"
+                },
+                {
+                  "value": "Protein"
+                },
+                {
+                  "value": "19.0g"
+                },
+                {
+                  "value": "."
+                },
+                {
+                  "value": "Salt"
+                },
+                {
+                  "value": "0.15g."
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

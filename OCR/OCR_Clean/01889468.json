@@ -1,0 +1,484 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        600,
+        1179
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.037109375,
+              0.045209960937500016
+            ],
+            [
+              0.9892578125,
+              0.987412109375
+            ]
+          ],
+          "objectness_score": 0.8263833686097027,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "bt'l"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "bt7"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "apet"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "apent"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "unipos"
+                },
+                {
+                  "value": "YDIYM"
+                },
+                {
+                  "value": "toFr"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "b9"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "69"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "epejy"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "epen"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "wes"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "bgL"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "bt2"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "%0'0"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "lu"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "auqyy"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "boz"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "boz"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "%0'0"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Du"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "seleunges"
+                },
+                {
+                  "value": "4DI4M"
+                },
+                {
+                  "value": "ort"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "6OL"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "6OL"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "%1O"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "ro"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "et"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "68'28"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "youers"
+                },
+                {
+                  "value": "4DI4M"
+                },
+                {
+                  "value": "orFr"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "6g8"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "606"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "%20"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "bzo"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "suebns"
+                },
+                {
+                  "value": "UDIYM"
+                },
+                {
+                  "value": "tot"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "boz2"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "bOEZ"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "%E88"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "b0'88"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "ajeupAyoqueg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "bt2"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "bgt"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "%20"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "bE'O"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "ulatold"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0081"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0002"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "%L21"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "7SE"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "jeoy"
+                },
+                {
+                  "value": "Abuau"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "SOSL"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "rY"
+                },
+                {
+                  "value": "Abaauz"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "(SIA"
+                },
+                {
+                  "value": "01-5)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "b0o1"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "uaupiiyp"
+                },
+                {
+                  "value": "unpe"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "vao"
+                },
+                {
+                  "value": "unpe"
+                },
+                {
+                  "value": "%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "BOOL"
+                },
+                {
+                  "value": "per"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "sanjen"
+                },
+                {
+                  "value": "jeojdAl"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "vao"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "RonuINN"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

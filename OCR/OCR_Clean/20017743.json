@@ -1,0 +1,280 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        1134,
+        1637
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.0107421875,
+              0.009414269179894186
+            ],
+            [
+              0.9970703125,
+              0.9976343763778659
+            ]
+          ],
+          "objectness_score": 0.7735918357565597,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "Nutrition"
+                },
+                {
+                  "value": "Information"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "lypica/values"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "per100mlper:"
+                },
+                {
+                  "value": "serving.200ml"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "thony"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "290kJ/69kca"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "580k"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "-"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "4.0g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "8.0g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "11%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "ofwhichsaturates"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2.6g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "5.2g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "26%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Carbohydrate"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "4.7g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "9.4g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "4%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "ofwhich"
+                },
+                {
+                  "value": "sugars"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "4.7g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "9.48"
+                },
+                {
+                  "value": "."
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "10%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fibre"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "<0.5g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.5g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Protein"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "3.4d"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "6.89"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "14%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Salt"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.10g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.20g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "3%"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        236,
+        889
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.015625,
+              0.05120332362288138
+            ],
+            [
+              0.98828125,
+              0.9708686440677966
+            ]
+          ],
+          "objectness_score": 0.8459897216628579,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "Nutrition"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Typical"
+                },
+                {
+                  "value": "values"
+                },
+                {
+                  "value": "per100g:"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Energy"
+                },
+                {
+                  "value": "2603"
+                },
+                {
+                  "value": "kJ,632"
+                },
+                {
+                  "value": "kcal;"
+                },
+                {
+                  "value": "Protein"
+                },
+                {
+                  "value": "5.6g;"
+                },
+                {
+                  "value": "Carbonydrate"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "6.1g"
+                },
+                {
+                  "value": "of"
+                },
+                {
+                  "value": "which"
+                },
+                {
+                  "value": "sugars"
+                },
+                {
+                  "value": "6.1g;"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "62.0g"
+                },
+                {
+                  "value": "of"
+                },
+                {
+                  "value": "which"
+                },
+                {
+                  "value": "saturates"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "53.4g,"
+                },
+                {
+                  "value": "mono-unsaturates"
+                },
+                {
+                  "value": "3.5g,"
+                },
+                {
+                  "value": "polyunsaturates"
+                },
+                {
+                  "value": "1.5g;"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fibre"
+                },
+                {
+                  "value": "13.7g;"
+                },
+                {
+                  "value": "Salt"
+                },
+                {
+                  "value": "trace"
+                },
+                {
+                  "value": "of"
+                },
+                {
+                  "value": "which"
+                },
+                {
+                  "value": "sodium"
+                },
+                {
+                  "value": "trace."
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

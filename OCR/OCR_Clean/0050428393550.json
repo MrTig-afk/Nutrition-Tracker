@@ -1,0 +1,237 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        177,
+        176
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.014837091619318177,
+              0.0517578125
+            ],
+            [
+              0.9556995738636364,
+              0.970703125
+            ]
+          ],
+          "objectness_score": 0.6897499735156695,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "Sering."
+                },
+                {
+                  "value": "e"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "piecos"
+                },
+                {
+                  "value": "40p"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Servire"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Per"
+                },
+                {
+                  "value": "Container"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "out"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "a"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Amount"
+                },
+                {
+                  "value": "per"
+                },
+                {
+                  "value": "à"
+                },
+                {
+                  "value": "-"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Calories"
+                },
+                {
+                  "value": "118"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "n"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "TotalFatoa"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "09"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "SaturatedFat"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Trans"
+                },
+                {
+                  "value": "Fatog"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "omg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Cholesteroi"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sodium"
+                },
+                {
+                  "value": "9mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Carbohydrate"
+                },
+                {
+                  "value": "28g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "10%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Total"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Dietary"
+                },
+                {
+                  "value": "Fiberog"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "-"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sugars"
+                },
+                {
+                  "value": "20g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Protein"
+                },
+                {
+                  "value": "2g"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

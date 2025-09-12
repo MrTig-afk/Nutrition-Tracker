@@ -1,0 +1,169 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        374,
+        937
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.0107421875,
+              0.02780069769385024
+            ],
+            [
+              0.978515625,
+              0.9379465031751337
+            ]
+          ],
+          "objectness_score": 0.7799936218394173,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "Nutrition:"
+                },
+                {
+                  "value": "Typical"
+                },
+                {
+                  "value": "values"
+                },
+                {
+                  "value": "per"
+                },
+                {
+                  "value": "LU"
+                },
+                {
+                  "value": "g:"
+                },
+                {
+                  "value": "Energy.2690kJ/650kcal"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "555gof"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "saturates"
+                },
+                {
+                  "value": "9.49,"
+                },
+                {
+                  "value": "mono-unsaturaues369g."
+                },
+                {
+                  "value": "polyunsaturates"
+                },
+                {
+                  "value": "0.70;"
+                },
+                {
+                  "value": "Carbohudrate"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "60gofwhich"
+                },
+                {
+                  "value": "sugars"
+                },
+                {
+                  "value": "3.8g;"
+                },
+                {
+                  "value": "Fibre"
+                },
+                {
+                  "value": "7.6g;"
+                },
+                {
+                  "value": "Protein"
+                },
+                {
+                  "value": "279g;Salt"
+                },
+                {
+                  "value": "0.43g."
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Pert"
+                },
+                {
+                  "value": "tablespoon"
+                },
+                {
+                  "value": "20g)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Energy"
+                },
+                {
+                  "value": "538kJ/130kcal"
+                },
+                {
+                  "value": "fat"
+                },
+                {
+                  "value": "Llg/saturates19gcarbohydrate"
+                },
+                {
+                  "value": "12g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "sugars"
+                },
+                {
+                  "value": "0.8gprotein"
+                },
+                {
+                  "value": "5.6g"
+                },
+                {
+                  "value": "salt"
+                },
+                {
+                  "value": "0.09g"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

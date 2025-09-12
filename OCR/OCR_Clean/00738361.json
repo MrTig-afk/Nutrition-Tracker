@@ -1,0 +1,150 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        368,
+        1129
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.02734375,
+              0.10152800186820654
+            ],
+            [
+              0.9423828125,
+              0.9374203889266304
+            ]
+          ],
+          "objectness_score": 0.7764159854381315,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "NUTRITION"
+                },
+                {
+                  "value": "Typical"
+                },
+                {
+                  "value": "values"
+                },
+                {
+                  "value": "per"
+                },
+                {
+                  "value": "100g:"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Energy"
+                },
+                {
+                  "value": "515KJ/120kcal"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "Protein"
+                },
+                {
+                  "value": "7.3g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Carbohydrate"
+                },
+                {
+                  "value": "12.4g,of"
+                },
+                {
+                  "value": "which"
+                },
+                {
+                  "value": "sugars"
+                },
+                {
+                  "value": "1.7g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "4.8g,of"
+                },
+                {
+                  "value": "which"
+                },
+                {
+                  "value": "saturates"
+                },
+                {
+                  "value": "0.3g"
+                },
+                {
+                  "value": "."
+                },
+                {
+                  "value": "Fibre."
+                },
+                {
+                  "value": "5.1g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sodium"
+                },
+                {
+                  "value": "1.39g"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "Equivalent"
+                },
+                {
+                  "value": "as"
+                },
+                {
+                  "value": "sant"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "3,48g."
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

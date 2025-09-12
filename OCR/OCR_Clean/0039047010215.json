@@ -1,0 +1,347 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        284,
+        494
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.0166015625,
+              0.05155149647887325
+            ],
+            [
+              0.96875,
+              0.9841205435739437
+            ]
+          ],
+          "objectness_score": 0.7285788571744254,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "NUTRITION"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "fer"
+                },
+                {
+                  "value": "149"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Typicalvalues"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Naeus"
+                },
+                {
+                  "value": "mojemes/Tipisce"
+                },
+                {
+                  "value": "Wertellabres"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "medios/aon"
+                },
+                {
+                  "value": "tpoiGem."
+                },
+                {
+                  "value": "aGarcen"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2157"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Energy"
+                },
+                {
+                  "value": "déregesemwetlaor"
+                },
+                {
+                  "value": "eregenofsegabage"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "516ka"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Energy"
+                },
+                {
+                  "value": "kcal"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "FatlipdesfetGr"
+                },
+                {
+                  "value": "a"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "Grassivemen"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "27.19"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "ofwhich"
+                },
+                {
+                  "value": "saturatescontacces"
+                },
+                {
+                  "value": "gassaturescaion"
+                },
+                {
+                  "value": "gesacagace"
+                },
+                {
+                  "value": "ascaes"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1689"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "saturacas"
+                },
+                {
+                  "value": "08"
+                },
+                {
+                  "value": "qualisatun@anan"
+                },
+                {
+                  "value": "verzadioo"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "CarbohydrateGtooss"
+                },
+                {
+                  "value": "en"
+                },
+                {
+                  "value": "-"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "-"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "a"
+                },
+                {
+                  "value": "L"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "ascohjdae"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "6359"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "ofwhich"
+                },
+                {
+                  "value": "sugars"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2339"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "contsuces"
+                },
+                {
+                  "value": "08100"
+                },
+                {
+                  "value": "Zuckerdelosauaesaaesaticresuel"
+                },
+                {
+                  "value": "qual/zucthenuaanan:"
+                },
+                {
+                  "value": "sukes"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fibre"
+                },
+                {
+                  "value": "Aore"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fbra"
+                },
+                {
+                  "value": "Fibrellezes"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "159"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Protein"
+                },
+                {
+                  "value": "Protenes!"
+                },
+                {
+                  "value": "W"
+                },
+                {
+                  "value": "eb"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "a"
+                },
+                {
+                  "value": "à"
+                },
+                {
+                  "value": "ProteineEntten"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "379"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Saltselacaae"
+                },
+                {
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0589"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

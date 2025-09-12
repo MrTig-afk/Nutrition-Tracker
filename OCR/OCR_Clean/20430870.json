@@ -1,0 +1,203 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        411,
+        806
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.044921875,
+              0.055694951338199516
+            ],
+            [
+              0.9404296875,
+              0.938559724756691
+            ]
+          ],
+          "objectness_score": 0.822554886341095,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "One"
+                },
+                {
+                  "value": "typical"
+                },
+                {
+                  "value": "egg"
+                },
+                {
+                  "value": "contains"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Energy"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fat"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Saturates"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sugars"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Salt"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "277kJ/"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "66kcal"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "4.6g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1.3g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "<0.1g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.20g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "3%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "7%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "7%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "<1%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "3%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "ofthe"
+                },
+                {
+                  "value": "reference"
+                },
+                {
+                  "value": "intake*"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Typical"
+                },
+                {
+                  "value": "energy"
+                },
+                {
+                  "value": "values"
+                },
+                {
+                  "value": "per"
+                },
+                {
+                  "value": "100g*"
+                },
+                {
+                  "value": ":"
+                },
+                {
+                  "value": "547KJ/131kcal"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

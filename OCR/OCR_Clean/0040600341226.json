@@ -1,0 +1,346 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        779,
+        1450
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.0078125,
+              0.0546549061296534
+            ],
+            [
+              0.99609375,
+              0.9816997954107831
+            ]
+          ],
+          "objectness_score": 0.8140505485131707,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "Nutrition"
+                },
+                {
+                  "value": "Facts"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "ServngSize1Spray"
+                },
+                {
+                  "value": "020g"
+                },
+                {
+                  "value": "CookngSpray5Spras(igTopping"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "ServingsPer"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "Cortarer1130Ccoungspaya"
+                },
+                {
+                  "value": "226Topping"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Calories0"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Amount/Serving"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1Spray"
+                },
+                {
+                  "value": "5Sprays"
+                },
+                {
+                  "value": "Amount/Serving"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1Spray"
+                },
+                {
+                  "value": "5Sprays"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "%DV*"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "%DV*"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "%DV*"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "%1"
+                },
+                {
+                  "value": "DV*"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Total"
+                },
+                {
+                  "value": "Fatt"
+                },
+                {
+                  "value": "Og"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0%"
+                },
+                {
+                  "value": "Total"
+                },
+                {
+                  "value": "Carb"
+                },
+                {
+                  "value": "Og"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sodium"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Omg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1%"
+                },
+                {
+                  "value": "Protein"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Og"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "tAmount"
+                },
+                {
+                  "value": "inispray."
+                },
+                {
+                  "value": "Notasignificant"
+                },
+                {
+                  "value": "source"
+                },
+                {
+                  "value": "offat"
+                },
+                {
+                  "value": "cal,"
+                },
+                {
+                  "value": "sat"
+                },
+                {
+                  "value": "fat,"
+                },
+                {
+                  "value": "trans"
+                },
+                {
+                  "value": "fat,"
+                },
+                {
+                  "value": "polyunsat"
+                },
+                {
+                  "value": "fat,"
+                },
+                {
+                  "value": "monounsat"
+                },
+                {
+                  "value": "fat,"
+                },
+                {
+                  "value": "cholest,"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "iiber,"
+                },
+                {
+                  "value": "sugars,"
+                },
+                {
+                  "value": "vitaminA"
+                },
+                {
+                  "value": "vitaminc,"
+                },
+                {
+                  "value": "calciumandiron."
+                },
+                {
+                  "value": "5sprays"
+                },
+                {
+                  "value": "contribute"
+                },
+                {
+                  "value": "an"
+                },
+                {
+                  "value": "additional"
+                },
+                {
+                  "value": "15mg"
+                },
+                {
+                  "value": "ofsodium."
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Percent"
+                },
+                {
+                  "value": "Dal"
+                },
+                {
+                  "value": "Values"
+                },
+                {
+                  "value": "DVare"
+                },
+                {
+                  "value": "based"
+                },
+                {
+                  "value": "dona2,000"
+                },
+                {
+                  "value": "calorie"
+                },
+                {
+                  "value": "diet."
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

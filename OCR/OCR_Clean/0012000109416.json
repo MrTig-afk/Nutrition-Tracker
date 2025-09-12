@@ -1,0 +1,146 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        801,
+        1077
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.0908203125,
+              0.012856244147940066
+            ],
+            [
+              0.837890625,
+              0.9543173572097379
+            ]
+          ],
+          "objectness_score": 0.5697799242640796,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "TATO"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "-"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "-"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sen.singt"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Bionfast"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "TT"
+                },
+                {
+                  "value": "-"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "oour"
+                },
+                {
+                  "value": "-"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "UKDW"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sugars40g,"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "à"
+                },
+                {
+                  "value": "-"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "lalues(WO"
+                },
+                {
+                  "value": "."
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "UU"
+                },
+                {
+                  "value": "talon"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "diet"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

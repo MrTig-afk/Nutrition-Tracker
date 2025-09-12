@@ -1,0 +1,535 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        590,
+        756
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.017578125,
+              0.04076403601694917
+            ],
+            [
+              0.96484375,
+              0.993021716101695
+            ]
+          ],
+          "objectness_score": 0.837524238713952,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "Nutrition"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Typical"
+                },
+                {
+                  "value": "values"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "per"
+                },
+                {
+                  "value": "100g"
+                },
+                {
+                  "value": "per"
+                },
+                {
+                  "value": "pack"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "%"
+                },
+                {
+                  "value": "adult"
+                },
+                {
+                  "value": "RI"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "adult"
+                },
+                {
+                  "value": "RI"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "(oven"
+                },
+                {
+                  "value": "cooked"
+                },
+                {
+                  "value": "as"
+                },
+                {
+                  "value": "per"
+                },
+                {
+                  "value": "instructions)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "per"
+                },
+                {
+                  "value": "pack"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Energy"
+                },
+                {
+                  "value": "kJ"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "333"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1330"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "8400"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Energy"
+                },
+                {
+                  "value": "kcal"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "79"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "316"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "16%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2000"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fat"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.8g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "3.0g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "4%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "70g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "of"
+                },
+                {
+                  "value": "which"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "saturates"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "<0.1g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.3g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "20g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "mono-unsaturates"
+                },
+                {
+                  "value": "0.5g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1.9g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "polyunsaturates"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.2g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.8g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Carbonydrate"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "13.7g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "54.7g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "21%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "260g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "of"
+                },
+                {
+                  "value": "which"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "sugars"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2.5g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "9.9g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "11%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "90g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "starch"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "11.2g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "44.8g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fibre"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "4.2g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "17.0g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Protein"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2.2g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "9.0g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "18%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "50g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Salt"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "048g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1.90g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "32%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "6g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "RI"
+                },
+                {
+                  "value": "="
+                },
+                {
+                  "value": "Reference"
+                },
+                {
+                  "value": "Intakes"
+                },
+                {
+                  "value": "of"
+                },
+                {
+                  "value": "an"
+                },
+                {
+                  "value": "average"
+                },
+                {
+                  "value": "adult"
+                },
+                {
+                  "value": "8400KJ/2000kcal)"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

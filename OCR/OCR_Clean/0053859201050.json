@@ -1,0 +1,334 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        664,
+        663
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.019784596530920073,
+              0.0146484375
+            ],
+            [
+              0.9899957579185521,
+              0.9462890625
+            ]
+          ],
+          "objectness_score": 0.7607213749851979,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "Nutrition"
+                },
+                {
+                  "value": "Facts/Datos"
+                },
+                {
+                  "value": "de"
+                },
+                {
+                  "value": "Nutricion"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Serving"
+                },
+                {
+                  "value": "Size"
+                },
+                {
+                  "value": "1"
+                },
+                {
+                  "value": "Can"
+                },
+                {
+                  "value": "(340mL)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Tamano"
+                },
+                {
+                  "value": "por"
+                },
+                {
+                  "value": "Porcion"
+                },
+                {
+                  "value": "I"
+                },
+                {
+                  "value": "Lata"
+                },
+                {
+                  "value": "(340mL)"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Servings"
+                },
+                {
+                  "value": "Per"
+                },
+                {
+                  "value": "Container/Porciones"
+                },
+                {
+                  "value": "por"
+                },
+                {
+                  "value": "Envase"
+                },
+                {
+                  "value": "1"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Amount"
+                },
+                {
+                  "value": "Per"
+                },
+                {
+                  "value": "Serving/Cantidad"
+                },
+                {
+                  "value": "en"
+                },
+                {
+                  "value": "cada"
+                },
+                {
+                  "value": "Porcion"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Calori"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "E"
+                },
+                {
+                  "value": "caionas"
+                },
+                {
+                  "value": "190"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Calories"
+                },
+                {
+                  "value": "from"
+                },
+                {
+                  "value": "Fat/Calorias"
+                },
+                {
+                  "value": "de"
+                },
+                {
+                  "value": "Grasa"
+                },
+                {
+                  "value": "I"
+                },
+                {
+                  "value": "0"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "%"
+                },
+                {
+                  "value": "Daily"
+                },
+                {
+                  "value": "Value\"/%"
+                },
+                {
+                  "value": "del"
+                },
+                {
+                  "value": "Valor"
+                },
+                {
+                  "value": "Diario*"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Total"
+                },
+                {
+                  "value": "Fat/Grase"
+                },
+                {
+                  "value": "Total"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "Og"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0%"
+                },
+                {
+                  "value": "a"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "UMSSON"
+                },
+                {
+                  "value": "L"
+                },
+                {
+                  "value": "20ng"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Potassium"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "si0160mg"
+                },
+                {
+                  "value": "-"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "5%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Total"
+                },
+                {
+                  "value": "Carbony"
+                },
+                {
+                  "value": "die/Total"
+                },
+                {
+                  "value": "de"
+                },
+                {
+                  "value": "Carbohidratos"
+                },
+                {
+                  "value": "47g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "16%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sugars."
+                },
+                {
+                  "value": "E71"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "%"
+                },
+                {
+                  "value": "45g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Protein/Prott"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

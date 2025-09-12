@@ -1,0 +1,312 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        888,
+        664
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.016778049698795205,
+              0.0400390625
+            ],
+            [
+              0.9949759977409638,
+              0.99609375
+            ]
+          ],
+          "objectness_score": 0.8029624236954583,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "NUTRITION"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "INFORMATION"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "SERVINGS"
+                },
+                {
+                  "value": "PER"
+                },
+                {
+                  "value": "PACKAGE:2"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "SERVING"
+                },
+                {
+                  "value": "SIZE:"
+                },
+                {
+                  "value": "260g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "AVG"
+                },
+                {
+                  "value": "QUANTITY"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "AVG"
+                },
+                {
+                  "value": "QUANTITY"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "PER"
+                },
+                {
+                  "value": "SERVING"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "PER"
+                },
+                {
+                  "value": "100g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "ENERGY"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "860kJ"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "330kJ"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "PROTEIN"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "12.0g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "4.6g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "FAT,"
+                },
+                {
+                  "value": "TOTAL"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "4.4g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1.79"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "SATURATED"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1.6g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.69"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "CARBOHYDRATE"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "26.0g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "10.0g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "SUGARS"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "8.8g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "3.49"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "DIETARY"
+                },
+                {
+                  "value": "FIBRE"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "5.7g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2.29"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "SODIUM"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "750mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "290mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "LYCOPENE"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "7.3mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "28mg"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,364 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        809,
+        1032
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.0390625,
+              0.06523292645241036
+            ],
+            [
+              0.9501953125,
+              0.9571905902348579
+            ]
+          ],
+          "objectness_score": 0.7617006021387437,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "Nutrition"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Facts"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Serv"
+                },
+                {
+                  "value": "size:"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "3"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "tosp"
+                },
+                {
+                  "value": "(25"
+                },
+                {
+                  "value": "g),"
+                },
+                {
+                  "value": "1"
+                },
+                {
+                  "value": "Servings:about3,"
+                },
+                {
+                  "value": "Amount"
+                },
+                {
+                  "value": "Per"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Serving:"
+                },
+                {
+                  "value": "Calories"
+                },
+                {
+                  "value": "190,"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "cal"
+                },
+                {
+                  "value": "140,"
+                },
+                {
+                  "value": "Total"
+                },
+                {
+                  "value": "Fat"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "15"
+                },
+                {
+                  "value": "9"
+                },
+                {
+                  "value": "(23%"
+                },
+                {
+                  "value": "DV)"
+                },
+                {
+                  "value": "Sat"
+                },
+                {
+                  "value": "fat"
+                },
+                {
+                  "value": "11"
+                },
+                {
+                  "value": "à"
+                },
+                {
+                  "value": "g"
+                },
+                {
+                  "value": "(55%"
+                },
+                {
+                  "value": "DV),"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Trans"
+                },
+                {
+                  "value": "fat"
+                },
+                {
+                  "value": "0"
+                },
+                {
+                  "value": "9,"
+                },
+                {
+                  "value": "Cholest"
+                },
+                {
+                  "value": "O"
+                },
+                {
+                  "value": "mg"
+                },
+                {
+                  "value": "(0%"
+                },
+                {
+                  "value": "DV),"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sodium"
+                },
+                {
+                  "value": "14"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "mg"
+                },
+                {
+                  "value": "(0%"
+                },
+                {
+                  "value": "DV),"
+                },
+                {
+                  "value": "Total"
+                },
+                {
+                  "value": "carb."
+                },
+                {
+                  "value": ".8g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "(3%"
+                },
+                {
+                  "value": "DV)"
+                },
+                {
+                  "value": "Fiber"
+                },
+                {
+                  "value": "0"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "3"
+                },
+                {
+                  "value": "g,"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Protein"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "g"
+                },
+                {
+                  "value": "(0%DV),"
+                },
+                {
+                  "value": "Sugars"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "(0%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "3"
+                },
+                {
+                  "value": "9,"
+                },
+                {
+                  "value": "Vitamin"
+                },
+                {
+                  "value": "A"
+                },
+                {
+                  "value": "(0"
+                },
+                {
+                  "value": "%"
+                },
+                {
+                  "value": "DV),Vitamin"
+                },
+                {
+                  "value": "C"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Percent"
+                },
+                {
+                  "value": "DV),"
+                },
+                {
+                  "value": "Calcium"
+                },
+                {
+                  "value": "(10%"
+                },
+                {
+                  "value": "DV),"
+                },
+                {
+                  "value": "Iron"
+                },
+                {
+                  "value": "(6%"
+                },
+                {
+                  "value": "DV)."
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "a2.000"
+                },
+                {
+                  "value": "Daily"
+                },
+                {
+                  "value": "Values"
+                },
+                {
+                  "value": "(DV)"
+                },
+                {
+                  "value": "are"
+                },
+                {
+                  "value": "based"
+                },
+                {
+                  "value": "on"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "calorie"
+                },
+                {
+                  "value": "diet."
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

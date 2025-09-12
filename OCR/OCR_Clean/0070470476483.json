@@ -1,0 +1,302 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        739,
+        758
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.0,
+              0.00016650456698241722
+            ],
+            [
+              0.935546875,
+              0.9988318251014885
+            ]
+          ],
+          "objectness_score": 0.7967947144356985,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "Amounuserving"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Total"
+                },
+                {
+                  "value": "Fat"
+                },
+                {
+                  "value": "1g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sodium"
+                },
+                {
+                  "value": "55mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Saturated"
+                },
+                {
+                  "value": "Fat0.5g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "3%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Total"
+                },
+                {
+                  "value": "Carb."
+                },
+                {
+                  "value": "230"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Trans"
+                },
+                {
+                  "value": "Fat0g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Sugars"
+                },
+                {
+                  "value": "190"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Cholest."
+                },
+                {
+                  "value": "<"
+                },
+                {
+                  "value": "-"
+                },
+                {
+                  "value": "5mg"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Protein"
+                },
+                {
+                  "value": "11g"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Vitamin"
+                },
+                {
+                  "value": "A4%"
+                },
+                {
+                  "value": "0"
+                },
+                {
+                  "value": "Calcium"
+                },
+                {
+                  "value": "10%"
+                },
+                {
+                  "value": "0"
+                },
+                {
+                  "value": "VitaminD20%"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Not"
+                },
+                {
+                  "value": "a"
+                },
+                {
+                  "value": "significant"
+                },
+                {
+                  "value": "source"
+                },
+                {
+                  "value": "of"
+                },
+                {
+                  "value": "dietary"
+                },
+                {
+                  "value": "fiber"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "vitamin"
+                },
+                {
+                  "value": "C"
+                },
+                {
+                  "value": "and"
+                },
+                {
+                  "value": "iron."
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "ured"
+                },
+                {
+                  "value": "Pasteurized"
+                },
+                {
+                  "value": "I"
+                },
+                {
+                  "value": ":"
+                },
+                {
+                  "value": "I"
+                },
+                {
+                  "value": "Grade"
+                },
+                {
+                  "value": "A"
+                },
+                {
+                  "value": "Nonfat"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "(sugar,"
+                },
+                {
+                  "value": "water,"
+                },
+                {
+                  "value": "modified"
+                },
+                {
+                  "value": "corn"
+                },
+                {
+                  "value": "starch,"
+                },
+                {
+                  "value": "a"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "acetate,"
+                },
+                {
+                  "value": "vitamin"
+                },
+                {
+                  "value": "D3)."
+                },
+                {
+                  "value": "Contains"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "otassium"
+                },
+                {
+                  "value": "Sorbate"
+                },
+                {
+                  "value": "Addedto"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}

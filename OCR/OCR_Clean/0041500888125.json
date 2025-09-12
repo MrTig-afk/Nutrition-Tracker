@@ -1,0 +1,236 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "dimensions": [
+        597,
+        987
+      ],
+      "orientation": {
+        "value": null,
+        "confidence": null
+      },
+      "language": {
+        "value": null,
+        "confidence": null
+      },
+      "blocks": [
+        {
+          "geometry": [
+            [
+              0.0068359375,
+              0.0
+            ],
+            [
+              0.9833984375,
+              0.9423779051507537
+            ]
+          ],
+          "objectness_score": 0.7467414816705192,
+          "lines": [
+            {
+              "words": [
+                {
+                  "value": "I"
+                },
+                {
+                  "value": "the"
+                },
+                {
+                  "value": "origillai"
+                },
+                {
+                  "value": "yunw"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "NUTRITION"
+                },
+                {
+                  "value": "INFORMATION"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Typical"
+                },
+                {
+                  "value": "values"
+                },
+                {
+                  "value": "per"
+                },
+                {
+                  "value": "100"
+                },
+                {
+                  "value": "g"
+                },
+                {
+                  "value": "provides"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "107"
+                },
+                {
+                  "value": "KJ/25"
+                },
+                {
+                  "value": "kcal"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Energy."
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fat."
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.6"
+                },
+                {
+                  "value": "0"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "of"
+                },
+                {
+                  "value": "which"
+                },
+                {
+                  "value": "saturates"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.1"
+                },
+                {
+                  "value": "U"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Carbohydrate"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1.8"
+                },
+                {
+                  "value": "0"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "of"
+                },
+                {
+                  "value": "which"
+                },
+                {
+                  "value": "sugars"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "0.3"
+                },
+                {
+                  "value": "0"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Fibre"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "1.5"
+                },
+                {
+                  "value": "u"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Protein."
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "2.5"
+                },
+                {
+                  "value": "9"
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "Salt."
+                }
+              ]
+            },
+            {
+              "words": [
+                {
+                  "value": "8.40"
+                },
+                {
+                  "value": "u"
+                }
+              ]
+            }
+          ],
+          "artefacts": []
+        }
+      ]
+    }
+  ]
+}
